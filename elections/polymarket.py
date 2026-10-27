@@ -24,6 +24,14 @@ FIELDS = ["date", "tag", "event_id", "event_slug", "event_title", "market_id", "
           "best_bid", "best_ask", "last_trade_price", "volume", "volume_24hr", "liquidity",
           "active", "closed", "uma_resolution_status", "start_date", "end_date", "closed_time",
           "clob_token_ids", "raw"]
+# What changes day to day; the daily file keeps only these (see run_snapshot.py).
+ID = "market_id"
+PRICE_FIELDS = ["date", "event_id", "market_id", "closed", "winner", "outcome_prices", "yes_price", "best_bid",
+                "best_ask", "last_trade_price", "volume", "volume_24hr", "liquidity"]
+
+
+def resolved(row: dict) -> bool:
+    return str(row["closed"]) == "True"
 
 
 def as_list(v) -> list:

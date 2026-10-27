@@ -47,3 +47,24 @@ def write_csv_gz(path: Path, fields: list[str], rows: list[dict]) -> None:
         w.writeheader()
         w.writerows(rows)
     tmp.replace(path)
+
+
+def read_csv_gz(path: Path) -> list[dict]:
+    csv.field_size_limit(2**31 - 1)   # `raw` cells can be long
+    with gzip.open(path, "rt", newline="", encoding="utf-8") as f:
+        return list(csv.DictReader(f))
+
+
+def load_markets(data_dir: Path, source: str, key: str, before: str = "9999") -> dict[str, dict]:
+    """Every market ever seen, by id: the latest of its rows across all data/<date>/<source>_markets.csv.gz.
+
+    A market's details are written the day it first appears and again the day it resolves, so this gives each
+    market's full details plus its outcome. `before` (a date) leaves out that day and later.
+    """
+    markets = {}
+    for path in sorted(data_dir.glob(f"*/{source}_markets.csv.gz")):
+        if path.parent.name >= before:
+            continue
+        for r in read_csv_gz(path):
+            markets[r[key]] = r
+    return markets

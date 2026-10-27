@@ -22,6 +22,14 @@ FIELDS = ["date", "category", "series_ticker", "series_title", "event_ticker", "
           "yes_bid", "yes_ask", "no_bid", "no_ask", "last_price", "previous_price",
           "volume", "volume_24h", "open_interest",
           "open_time", "close_time", "expiration_time", "settlement_ts", "rules_primary", "raw"]
+# What changes day to day; the daily file keeps only these (see run_snapshot.py).
+ID = "ticker"
+PRICE_FIELDS = ["date", "event_ticker", "ticker", "status", "result", "settlement_value", "yes_bid", "yes_ask",
+                "no_bid", "no_ask", "last_price", "volume", "volume_24h", "open_interest"]
+
+
+def resolved(row: dict) -> bool:
+    return bool(row["result"])
 
 
 def paged(path: str, key: str, params: dict):

@@ -1,7 +1,7 @@
-"""Daily price history for every market in the latest snapshot, from the day it opened.
+"""Daily price history for every market ever snapshotted, from the day it opened.
 
-Reads the newest data/<date>/{kalshi,polymarket}.csv.gz for the list of markets and writes one file per
-event (race), with one row per market per day:
+Reads the market details in data/*/{kalshi,polymarket}_markets.csv.gz for the list of markets and
+writes one file per event (race), with one row per market per day:
 
   history/kalshi/<series_ticker>/<event_ticker>.csv.gz
       event_ticker, ticker, date, price_close, price_mean, yes_bid_close, yes_ask_close, volume, open_interest
@@ -16,8 +16,6 @@ covers the days in between). Events never fetched go first, biggest volume first
 budget and the next run picks up where it left off, so the first full backfill spreads over several runs.
 """
 
-import csv
-import gzip
 import json
 import time
 from collections import defaultdict
@@ -25,7 +23,8 @@ from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 from . import kalshi as k
-from .common import NotFound, get_json, write_csv_gz
+from . import polymarket as pm
+from .common import NotFound, get_json, load_markets, write_csv_gz
 
 ROOT = Path(__file__).resolve().parent.parent
 REFRESH_DAYS = 7
@@ -35,14 +34,7 @@ KALSHI_FIELDS = ["event_ticker", "ticker", "date", "price_close", "price_mean", 
                  "volume", "open_interest"]
 POLY_FIELDS = ["event_id", "market_id", "outcome", "date", "price"]
 CLOB = "https://clob.polymarket.com"
-
-
-def latest_snapshot(source: str) -> list[dict]:
-    files = sorted((ROOT / "data").glob(f"*/{source}.csv.gz"))
-    if not files:
-        return []
-    with gzip.open(files[-1], "rt", newline="", encoding="utf-8") as f:
-        return list(csv.DictReader(f))
+ID = {"kalshi": k.ID, "polymarket": pm.ID}
 
 
 def ts(iso: str) -> int | None:
@@ -160,7 +152,7 @@ def backfill(minutes: float) -> dict[str, int]:
         manifest_path = out_dir / "manifest.json"
         manifest = json.loads(manifest_path.read_text()) if manifest_path.exists() else {}
         events = defaultdict(list)
-        for m in latest_snapshot(source):
+        for m in load_markets(ROOT / "data", source, ID[source]).values():
             events[m[key]].append(m)
         todo = [e for e, ms in events.items()
                 if not manifest.get(e, {}).get("final") and manifest.get(e, {}).get("fetched", "") <= stale]

@@ -8,22 +8,26 @@ Both sites publish current prices through free public APIs but keep only limited
 | **Kalshi** | Every market in every series in the `Elections` category: open, closed and settled | Trade API v2 (`api.elections.kalshi.com`), no key |
 | **Polymarket** | Every market in every event tagged `elections`: open and closed | Gamma API (`gamma-api.polymarket.com`), no key |
 
-Each snapshot includes resolved markets as well as live ones, so a day's file shows the current odds for
-open races and the outcomes of decided ones.
+Files (dates are UTC), per source:
 
-Files: `data/<YYYY-MM-DD>/{kalshi,polymarket}.csv.gz` (date is UTC), one row per market.
+- `data/<YYYY-MM-DD>/<source>.csv.gz`: that day's prices and status for every **open** market, plus markets
+  that resolved since the previous snapshot (so each result appears once). Resolved markets are dropped after that.
+- `data/<YYYY-MM-DD>/<source>_markets.csv.gz`: full details of markets that **first appeared or resolved** that day.
+  Together these files hold every market ever seen; the latest row for a market has its outcome.
+  `elections.common.load_markets()` combines them. The first snapshot (2026-10-27) holds all markets then listed.
 
-- **Kalshi columns:** series/event/market tickers and titles, `status`, `result` (`yes`/`no` once settled),
-  bid/ask/last prices in dollars (0–1, which equals the implied probability), `volume`, `volume_24h`,
-  `open_interest`, timestamps, and the resolution rules.
-- **Polymarket columns:** event and market ids/slugs, `question`, `outcomes` and `outcome_prices` (JSON lists
-  in matching order), `yes_price`, `winner` (the outcome priced 1 after resolution), bid/ask/last, volume,
-  liquidity, `active`/`closed`, dates, and `clob_token_ids` (for pulling price history from the CLOB API).
-- **Both:** `raw` holds the API's full market object as JSON, so fields not broken out above are still archived.
+Daily columns:
+- **Kalshi:** `event_ticker, ticker, status, result` (`yes`/`no` once settled), `settlement_value`, yes/no
+  bid and ask and `last_price` in dollars (0–1, which equals the implied probability), `volume, volume_24h, open_interest`.
+- **Polymarket:** `event_id, market_id, closed, winner` (the outcome priced 1 after resolution), `outcome_prices`
+  (JSON list), `yes_price`, bid/ask/last, `volume, volume_24hr, liquidity`.
+
+Details columns add titles, the series/event they belong to, the resolution rules, open/close dates, outcome names,
+`clob_token_ids` (Polymarket), and `raw`, the API's full market object as JSON.
 
 ## Price history
 
-`history/` holds the daily odds for every market in the latest snapshot, going back to the day it opened:
+`history/` holds the daily odds for every market ever snapshotted, going back to the day it opened:
 
 - `history/kalshi/<series>/<event>.csv.gz`: `event_ticker, ticker, date, price_close, price_mean, yes_bid_close,
   yes_ask_close, volume, open_interest`. These come from Kalshi's daily candlesticks. `price_*` is empty on
