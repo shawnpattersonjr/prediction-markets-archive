@@ -10,16 +10,16 @@ writes one file per event (race), with one row per market per day:
       event_id, market_id, outcome, date, price
       (Polymarket CLOB daily price of the market's first outcome, i.e. "Yes" for binary markets)
 
-Progress is kept in history/<source>/manifest.json. An event whose markets have all resolved is fetched once
-more after it closes and then never again; an open event is refreshed every REFRESH_DAYS (the daily snapshot
-covers the days in between). Events never fetched go first, biggest volume first. Each run stops after a time
-budget and the next run picks up where it left off, so the first full backfill spreads over several runs.
+Progress is kept in history/<source>/manifest.json. Each event is fetched once (open events up to that day;
+the daily snapshots carry them forward) and once more after all its markets resolve, then never again.
+Events never fetched go first, biggest volume first. Each run stops after a time budget and the next run
+picks up where it left off, so the first full backfill spreads over several runs.
 """
 
 import json
 import time
 from collections import defaultdict
-from datetime import date, datetime, timedelta, timezone
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 from . import kalshi as k
@@ -27,7 +27,6 @@ from . import polymarket as pm
 from .common import NotFound, get_json, load_markets, write_csv_gz
 
 ROOT = Path(__file__).resolve().parent.parent
-REFRESH_DAYS = 7
 DAY = 86400
 
 KALSHI_FIELDS = ["event_ticker", "ticker", "date", "price_close", "price_mean", "yes_bid_close", "yes_ask_close",
@@ -92,40 +91,29 @@ def kalshi_event(markets: list[dict], now: int) -> list[dict]:
 
 # --- Polymarket ---------------------------------------------------------------------------------------------
 
-def poly_prices(token: str, start: int | None, end: int) -> list[dict]:
-    """Daily prices. Very long ranges can come back empty, so fall back to interval=max, then to yearly chunks."""
-    if start:
-        hist = get_json(f"{CLOB}/prices-history", {"market": token, "startTs": start, "endTs": end,
-                                                    "fidelity": 1440}).get("history") or []
-        if hist:
-            return hist
-    hist = get_json(f"{CLOB}/prices-history", {"market": token, "interval": "max", "fidelity": 1440}).get("history")
-    if hist or not start:
-        return hist or []
-    out = []
-    for s in range(start, end, 365 * DAY):
-        out += get_json(f"{CLOB}/prices-history", {"market": token, "startTs": s, "endTs": min(s + 365 * DAY, end),
-                                                   "fidelity": 1440}).get("history") or []
-        time.sleep(0.2)
-    return out
+def poly_prices(token: str) -> list[dict]:
+    """Daily prices over the market's whole life. The CLOB rejects startTs/endTs ranges longer than a few
+    days ("interval is too long"), so ask for interval=max; a finer fidelity is the fallback if daily is empty."""
+    for fidelity in (1440, 720):
+        hist = get_json(f"{CLOB}/prices-history", {"market": token, "interval": "max", "fidelity": fidelity})
+        if hist.get("history"):
+            return hist["history"]
+    return []
 
 
-def poly_event(markets: list[dict], now: int) -> list[dict]:
+def poly_event(markets: list[dict], _now: int) -> list[dict]:
     rows = []
     for m in markets:
         tokens, outcomes = json.loads(m["clob_token_ids"] or "[]"), json.loads(m["outcomes"] or "[]")
         if not tokens:
             continue
-        raw = json.loads(m["raw"] or "{}")
-        start = ts(m["start_date"]) or ts(raw.get("createdAt", ""))
-        end = min(ts(m["closed_time"]) or ts(m["end_date"]) or now, now) + DAY
         by_day = {}
-        for p in poly_prices(tokens[0], start, end):
+        for p in poly_prices(tokens[0]):
             by_day[ymd(int(p["t"]))] = p["p"]   # keep the last price of each day
         for d, p in sorted(by_day.items()):
             rows.append({"event_id": m["event_id"], "market_id": m["market_id"],
                          "outcome": outcomes[0] if outcomes else "", "date": d, "price": p})
-        time.sleep(0.2)
+        time.sleep(0.1)
     return rows
 
 
@@ -143,7 +131,6 @@ SOURCES = {
 def backfill(minutes: float) -> dict[str, int]:
     start = time.monotonic()
     today, now = date.today().isoformat(), int(time.time())
-    stale = (date.today() - timedelta(days=REFRESH_DAYS)).isoformat()
     done = {}
     for source, (key, rel, resolved, fetch, fields) in SOURCES.items():
         # Kalshi may use 2/3 of the budget, so Polymarket still gets a turn while Kalshi's backlog is long.
@@ -155,7 +142,7 @@ def backfill(minutes: float) -> dict[str, int]:
         for m in load_markets(ROOT / "data", source, ID[source]).values():
             events[m[key]].append(m)
         todo = [e for e, ms in events.items()
-                if not manifest.get(e, {}).get("final") and manifest.get(e, {}).get("fetched", "") <= stale]
+                if e not in manifest or (not manifest[e]["final"] and all(resolved(m) for m in ms))]
         todo.sort(key=lambda e: (e in manifest, -sum(num(m["volume"]) for m in events[e])))
         print(f"{source}: {len(events)} events, {len(todo)} to fetch")
         done[source] = 0
@@ -171,7 +158,9 @@ def backfill(minutes: float) -> dict[str, int]:
                 continue
             if rows:
                 write_csv_gz(out_dir / rel(ms), fields, rows)
-            manifest[e] = {"fetched": today, "final": bool(rows) and all(resolved(m) for m in ms), "rows": len(rows)}
+            # A resolved event with no history gets one retry before it is given up on.
+            final = all(resolved(m) for m in ms) and (bool(rows) or e in manifest)
+            manifest[e] = {"fetched": today, "final": final, "rows": len(rows)}
             done[source] += 1
             if done[source] % 50 == 0:
                 manifest_path.write_text(json.dumps(manifest, indent=0, sort_keys=True))

@@ -5,7 +5,7 @@ Both sites publish current prices through free public APIs but keep only limited
 
 | Source | What's collected | API |
 |---|---|---|
-| **Kalshi** | Every market in every series in the `Elections` category: open, closed and settled | Trade API v2 (`api.elections.kalshi.com`), no key |
+| **Kalshi** | Every market in the `Elections` category, plus election events in `Politics` (where older races such as the 2024 presidential live): open, closed and settled, including markets moved to Kalshi's historical archive | Trade API v2 (`api.elections.kalshi.com`), no key |
 | **Polymarket** | Every market in every event tagged `elections`: open and closed | Gamma API (`gamma-api.polymarket.com`), no key |
 
 Files (dates are UTC), per source:
@@ -37,13 +37,13 @@ Details columns add titles, the series/event they belong to, the resolution rule
 
 Workflow: `.github/workflows/daily-history.yml` (14:37 UTC daily). Each run has a 150-minute budget (set
 another from the Actions tab) and records progress in `history/<source>/manifest.json`, so the first full
-backfill spreads over several days, biggest races first. After that, a resolved race is fetched once more and
-then never again, and open races are refreshed weekly. The daily snapshots cover the days in between.
+backfill spreads over several days, biggest races first. Each race is fetched once (an open race up to that
+day; the daily snapshots carry it forward) and once more after it resolves, then never again.
 
 ## Coverage
 
-To widen coverage, edit `CATEGORIES` in `elections/kalshi.py` (for example, add `"Politics"`) or `TAG_SLUGS`
-in `elections/polymarket.py`.
+To change coverage, edit `CATEGORIES` and `is_election()` in `elections/kalshi.py` or `TAG_SLUGS` in
+`elections/polymarket.py`.
 
 - Workflow: `.github/workflows/daily-snapshot.yml` (13:07 UTC daily; it can also be run manually from the Actions tab).
 - A failed source doesn't block the other. It is retried once an hour later, and if it still fails the run is
