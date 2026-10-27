@@ -1,0 +1,40 @@
+name: Daily price history backfill
+
+on:
+  schedule:
+    - cron: "37 14 * * *"   # 14:37 UTC daily, after the snapshot job
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: "Time budget in minutes"
+        default: "150"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive-commits     # don't race the snapshot job when pushing
+  cancel-in-progress: false
+
+jobs:
+  history:
+    runs-on: ubuntu-latest
+    timeout-minutes: 200
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Backfill price history
+        env:
+          HISTORY_MINUTES: ${{ inputs.minutes || '150' }}
+        run: python run_history.py
+      - name: Commit history
+        if: always()   # keep partial progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898732+github-actions[bot]@users.noreply.github.com"
+          git add history
+          git diff --cached --quiet || git commit -m "Price history $(date -u +%F)"
+          git pull --rebase -q && git push

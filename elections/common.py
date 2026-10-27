@@ -11,16 +11,23 @@ import requests
 HEADERS = {"User-Agent": "Mozilla/5.0 (Penn APPC research; election market archive)", "Accept": "application/json"}
 
 
+class NotFound(Exception):
+    pass
+
+
 def get_json(url: str, params: dict | None = None, attempts: int = 5):
-    """GET with retries; backs off longer on 429 (rate limit) and 5xx."""
+    """GET with retries on network errors, 429 (rate limit) and 5xx. Other 4xx fail at once (404 -> NotFound)."""
     for i in range(1, attempts + 1):
         try:
             r = requests.get(url, params=params, headers=HEADERS, timeout=60)
+            if r.status_code == 404:
+                raise NotFound(r.url)
             if r.status_code == 429 or r.status_code >= 500:
                 raise requests.HTTPError(f"{r.status_code} for {r.url}", response=r)
-            r.raise_for_status()
+            if r.status_code >= 400:
+                raise ValueError(f"{r.status_code} for {r.url}: {r.text[:200]}")
             return r.json()
-        except (requests.RequestException, ValueError):
+        except requests.RequestException:
             if i == attempts:
                 raise
             time.sleep(5 * 2 ** (i - 1))

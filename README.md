@@ -21,6 +21,23 @@ Files: `data/<YYYY-MM-DD>/{kalshi,polymarket}.csv.gz` (date is UTC), one row per
   liquidity, `active`/`closed`, dates, and `clob_token_ids` (for pulling price history from the CLOB API).
 - **Both:** `raw` holds the API's full market object as JSON, so fields not broken out above are still archived.
 
+## Price history
+
+`history/` holds the daily odds for every market in the latest snapshot, going back to the day it opened:
+
+- `history/kalshi/<series>/<event>.csv.gz`: `event_ticker, ticker, date, price_close, price_mean, yes_bid_close,
+  yes_ask_close, volume, open_interest`. These come from Kalshi's daily candlesticks. `price_*` is empty on
+  days with no trades; the bid/ask still give the market's odds on those days.
+- `history/polymarket/<event_id>.csv.gz`: `event_id, market_id, outcome, date, price`. This is the CLOB daily
+  price of the market's first outcome ("Yes" on binary markets), joined to the snapshot by `market_id`.
+
+Workflow: `.github/workflows/daily-history.yml` (14:37 UTC daily). Each run has a 150-minute budget (set
+another from the Actions tab) and records progress in `history/<source>/manifest.json`, so the first full
+backfill spreads over several days, biggest races first. After that, a resolved race is fetched once more and
+then never again, and open races are refreshed weekly. The daily snapshots cover the days in between.
+
+## Coverage
+
 To widen coverage, edit `CATEGORIES` in `elections/kalshi.py` (for example, add `"Politics"`) or `TAG_SLUGS`
 in `elections/polymarket.py`.
 
