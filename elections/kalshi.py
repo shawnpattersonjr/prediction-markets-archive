@@ -4,7 +4,8 @@ Kalshi groups markets as series -> events -> markets, e.g. series PRES (presiden
 PRES-2024 -> markets PRES-2024-DJT, PRES-2024-KH. We list every series in the Elections category, plus the
 election events of the Politics category (where some older races such as PRES live), then pull each
 series' events with their markets in every status. Markets settled before Kalshi's historical cutoff
-(GET /historical/cutoff) are no longer nested in /events, so we also page /historical/markets per series.
+(GET /historical/cutoff) are no longer nested in /events, so once a week we also page /historical/markets
+per series.
 
 One row per market. Prices are in dollars (0-1, = implied probability); `raw` keeps the API's full market
 object as JSON so fields we don't break out are still archived.
@@ -12,13 +13,15 @@ object as JSON so fields we don't break out are still archived.
 
 import re
 import time
+from datetime import date
 
 from .common import dumps, get_json
 
 API = "https://api.elections.kalshi.com/trade-api/v2"
 CATEGORIES = ["Elections", "Politics"]   # Politics is filtered to election events, see is_election()
-ELECTION_WORDS = re.compile(r"elect|primar|nomin|runoff|caucus|ballot|referend|winner|seats", re.I)
+ELECTION_WORDS = re.compile(r"elect|primar|runoff|caucus|referend", re.I)
 PAUSE = 0.15                 # basic tier allows ~20 reads/s
+ARCHIVE_WEEKDAY = 6          # Sunday: also page /historical/markets (settled long ago, so weekly is plenty)
 
 FIELDS = ["date", "category", "series_ticker", "series_title", "event_ticker", "event_title", "event_subtitle",
           "ticker", "title", "subtitle", "yes_sub_title", "status", "result", "settlement_value",
@@ -85,20 +88,25 @@ def is_election(s: dict, ev: dict) -> bool:
         ELECTION_WORDS.search(f"{s.get('title', '')} {ev.get('title', '')}"))
 
 
-def fetch(day: str) -> list[dict]:
+def fetch(day: str, archive: bool | None = None) -> list[dict]:
+    """Archived markets are only listed on ARCHIVE_WEEKDAY (or when archive=True): they have settled, so
+    the copy in an earlier snapshot is final, and listing them doubles the run time."""
+    if archive is None:
+        archive = date.fromisoformat(day).weekday() == ARCHIVE_WEEKDAY
     rows, seen = [], set()
     all_series = series()
-    print(f"  kalshi: {len(all_series)} series in {CATEGORIES}")
+    print(f"  kalshi: {len(all_series)} series in {CATEGORIES}{', with archive' if archive else ''}")
     for n, s in enumerate(all_series, 1):
         try:
             events = {ev["event_ticker"]: ev for ev in paged(
                 "/events", "events", {"series_ticker": s["ticker"], "with_nested_markets": "true", "limit": 200})}
             markets = [(ev, m) for ev in events.values() for m in ev.get("markets") or []]
-            time.sleep(PAUSE)
-            for m in paged("/historical/markets", "markets", {"series_ticker": s["ticker"], "limit": 1000}):
-                ev = events.get(m.get("event_ticker")) or {"event_ticker": m.get("event_ticker", ""),
-                                                           "title": m.get("title", "")}
-                markets.append((ev, m))
+            if archive:
+                time.sleep(PAUSE)
+                for m in paged("/historical/markets", "markets", {"series_ticker": s["ticker"], "limit": 1000}):
+                    ev = events.get(m.get("event_ticker")) or {"event_ticker": m.get("event_ticker", ""),
+                                                               "title": m.get("title", "")}
+                    markets.append((ev, m))
             markets = [(ev, m) for ev, m in markets if is_election(s, ev)]
         except Exception as e:
             print(f"  kalshi {s['ticker']}: failed ({e})")

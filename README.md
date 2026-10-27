@@ -5,7 +5,7 @@ Both sites publish current prices through free public APIs but keep only limited
 
 | Source | What's collected | API |
 |---|---|---|
-| **Kalshi** | Every market in the `Elections` category, plus election events in `Politics` (where older races such as the 2024 presidential live): open, closed and settled, including markets moved to Kalshi's historical archive | Trade API v2 (`api.elections.kalshi.com`), no key |
+| **Kalshi** | Every market in the `Elections` category, plus election events in `Politics` (where older races such as the 2024 presidential live): open, closed and settled, plus markets moved to Kalshi's historical archive (checked on Sundays) | Trade API v2 (`api.elections.kalshi.com`), no key |
 | **Polymarket** | Every market in every event tagged `elections`: open and closed | Gamma API (`gamma-api.polymarket.com`), no key |
 
 Files (dates are UTC), per source:
