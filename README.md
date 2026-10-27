@@ -15,7 +15,7 @@ Files: `data/<YYYY-MM-DD>/{kalshi,polymarket}.csv.gz` (date is UTC), one row per
 
 - **Kalshi columns:** series/event/market tickers and titles, `status`, `result` (`yes`/`no` once settled),
   bid/ask/last prices in dollars (0–1, which equals the implied probability), `volume`, `volume_24h`,
-  `open_interest`, `liquidity`, timestamps, and the resolution rules.
+  `open_interest`, timestamps, and the resolution rules.
 - **Polymarket columns:** event and market ids/slugs, `question`, `outcomes` and `outcome_prices` (JSON lists
   in matching order), `yes_price`, `winner` (the outcome priced 1 after resolution), bid/ask/last, volume,
   liquidity, `active`/`closed`, dates, and `clob_token_ids` (for pulling price history from the CLOB API).

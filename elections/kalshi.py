@@ -20,8 +20,8 @@ PAUSE = 0.15                 # basic tier allows ~20 reads/s
 FIELDS = ["date", "category", "series_ticker", "series_title", "event_ticker", "event_title", "event_subtitle",
           "ticker", "title", "subtitle", "yes_sub_title", "status", "result", "settlement_value",
           "yes_bid", "yes_ask", "no_bid", "no_ask", "last_price", "previous_price",
-          "volume", "volume_24h", "open_interest", "liquidity",
-          "open_time", "close_time", "expiration_time", "settlement_time", "rules_primary", "raw"]
+          "volume", "volume_24h", "open_interest",
+          "open_time", "close_time", "expiration_time", "settlement_ts", "rules_primary", "raw"]
 
 
 def paged(path: str, key: str, params: dict):
@@ -85,10 +85,10 @@ def fetch(day: str) -> list[dict]:
                     "yes_sub_title": m.get("yes_sub_title", ""), "status": m.get("status", ""),
                     "result": m.get("result", ""), "settlement_value": dollars(m, "settlement_value"),
                     **{p: dollars(m, p) for p in ["yes_bid", "yes_ask", "no_bid", "no_ask",
-                                                  "last_price", "previous_price", "liquidity"]},
+                                                  "last_price", "previous_price"]},
                     **{c: count(m, c) for c in ["volume", "volume_24h", "open_interest"]},
                     **{t: m.get(t, "") for t in ["open_time", "close_time", "expiration_time",
-                                                 "settlement_time", "rules_primary"]},
+                                                 "settlement_ts", "rules_primary"]},
                     "raw": dumps(m),
                 })
         if n % 100 == 0:
