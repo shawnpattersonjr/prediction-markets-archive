@@ -24,6 +24,11 @@
 "final": false,
 "rows": 698
 },
+"101169": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 52
+},
 "101224": {
 "fetched": "2026-10-28",
 "final": true,
@@ -49,15 +54,30 @@
 "final": true,
 "rows": 1202
 },
+"101246": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1433
+},
 "10133": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 430
 },
+"101757": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1004
+},
 "101762": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 1297
+},
+"101763": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 434
 },
 "101766": {
 "fetched": "2026-10-27",
@@ -69,10 +89,20 @@
 "final": true,
 "rows": 662
 },
+"101799": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 954
+},
 "101813": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 1338
+},
+"101820": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 740
 },
 "101822": {
 "fetched": "2026-10-28",
@@ -99,6 +129,16 @@
 "final": false,
 "rows": 2013
 },
+"101857": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 579
+},
+"101859": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1064
+},
 "101860": {
 "fetched": "2026-10-28",
 "final": true,
@@ -119,10 +159,20 @@
 "final": true,
 "rows": 1726
 },
+"101979": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1719
+},
 "101980": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 2225
+},
+"102001": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 126
 },
 "102002": {
 "fetched": "2026-10-27",
@@ -139,10 +189,30 @@
 "final": true,
 "rows": 514
 },
+"1023494": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 82
+},
+"1025096": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 11
+},
+"1025423": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 168
+},
 "10268": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 485
+},
+"102808": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 40
 },
 "1030146": {
 "fetched": "2026-10-28",
@@ -166,6 +236,11 @@
 },
 "1030992": {
 "fetched": "2026-10-28",
+"final": true,
+"rows": 95
+},
+"1031002": {
+"fetched": "2026-10-29",
 "final": true,
 "rows": 95
 },
@@ -204,6 +279,26 @@
 "final": true,
 "rows": 609
 },
+"10384": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 49
+},
+"1038939": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 80
+},
+"1039133": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 378
+},
+"10511": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 138
+},
 "10515": {
 "fetched": "2026-10-28",
 "final": true,
@@ -213,6 +308,16 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 330
+},
+"1053651": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 30
+},
+"10568": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 204
 },
 "106049": {
 "fetched": "2026-10-27",
@@ -224,25 +329,160 @@
 "final": false,
 "rows": 584
 },
+"106056": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 602
+},
+"106057": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 589
+},
+"106058": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 587
+},
+"106059": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 589
+},
+"106073": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 577
+},
+"106075": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 570
+},
+"106077": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 574
+},
+"106096": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 584
+},
+"106102": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 572
+},
+"106107": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 597
+},
+"106112": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 571
+},
 "106114": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 580
+},
+"106115": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 578
+},
+"106116": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 572
+},
+"106118": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 601
+},
+"106119": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 577
+},
+"106130": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 602
 },
 "1061332": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 310
 },
+"106134": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 573
+},
+"1061349": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 503
+},
+"106135": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 585
+},
+"106136": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 572
+},
+"106137": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 593
+},
+"106138": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 605
+},
 "106160": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 824
 },
+"106170": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 602
+},
+"106171": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 594
+},
+"106172": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 587
+},
+"106173": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 577
+},
 "1061732": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 171
+},
+"106174": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 578
 },
 "1061741": {
 "fetched": "2026-10-28",
@@ -254,10 +494,45 @@
 "final": true,
 "rows": 752
 },
+"106177": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 577
+},
+"106178": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 602
+},
+"1061820": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 34
+},
+"106183": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 576
+},
+"106184": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 588
+},
+"106185": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 584
+},
 "106186": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 581
+},
+"106187": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 582
 },
 "106193": {
 "fetched": "2026-10-27",
@@ -269,15 +544,75 @@
 "final": true,
 "rows": 479
 },
+"106211": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 588
+},
+"106216": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 576
+},
+"106217": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 572
+},
+"106218": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 588
+},
 "106219": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 576
 },
+"106222": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 585
+},
+"106223": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 580
+},
+"106228": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 581
+},
+"106229": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 602
+},
+"106230": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 600
+},
 "106232": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 582
+},
+"106233": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 598
+},
+"106236": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 587
+},
+"106241": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 585
 },
 "106510": {
 "fetched": "2026-10-28",
@@ -299,6 +634,11 @@
 "final": true,
 "rows": 4032
 },
+"1065635": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 30
+},
 "106614": {
 "fetched": "2026-10-27",
 "final": true,
@@ -319,10 +659,20 @@
 "final": true,
 "rows": 472
 },
+"106889": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 180
+},
 "1069287": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 140
+},
+"1069288": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 148
 },
 "1069306": {
 "fetched": "2026-10-28",
@@ -339,6 +689,11 @@
 "final": true,
 "rows": 648
 },
+"1070958": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 9
+},
 "1070969": {
 "fetched": "2026-10-28",
 "final": true,
@@ -354,6 +709,11 @@
 "final": true,
 "rows": 1324
 },
+"1075612": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 29
+},
 "1075657": {
 "fetched": "2026-10-28",
 "final": true,
@@ -364,25 +724,110 @@
 "final": false,
 "rows": 141
 },
+"1082239": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 285
+},
+"1082240": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 181
+},
 "1082278": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 161
+},
+"1082782": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 360
 },
 "10857": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 334
 },
+"108751": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 447
+},
+"108773": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 656
+},
+"108788": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1026
+},
+"10896": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 60
+},
 "108989": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 904
 },
+"109012": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 571
+},
+"109037": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1501
+},
+"10942": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 28
+},
+"10943": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 35
+},
+"1098367": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 187
+},
+"1098373": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 42
+},
+"10997": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 72
+},
+"10999": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 151
+},
+"11020": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 65
+},
 "11024": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 108
+},
+"11056": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 15
 },
 "1107810": {
 "fetched": "2026-10-28",
@@ -404,10 +849,50 @@
 "final": false,
 "rows": 245
 },
+"1107822": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 388
+},
 "111063": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 1983
+},
+"111075": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 685
+},
+"11145": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 107
+},
+"11163": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 4
+},
+"111878": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 864
+},
+"11188": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 84
+},
+"1120128": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 24
+},
+"112053": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 615
 },
 "11209": {
 "fetched": "2026-10-27",
@@ -429,6 +914,11 @@
 "final": true,
 "rows": 1315
 },
+"112252": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 453
+},
 "1137668": {
 "fetched": "2026-10-27",
 "final": true,
@@ -439,6 +929,11 @@
 "final": true,
 "rows": 31
 },
+"1137687": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 34
+},
 "1137688": {
 "fetched": "2026-10-28",
 "final": true,
@@ -448,6 +943,11 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 34
+},
+"1138213": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 283
 },
 "1138216": {
 "fetched": "2026-10-28",
@@ -469,6 +969,21 @@
 "final": true,
 "rows": 135
 },
+"1142232": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 13
+},
+"1142254": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 111
+},
+"1147434": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 19
+},
 "1151056": {
 "fetched": "2026-10-28",
 "final": false,
@@ -479,6 +994,21 @@
 "final": false,
 "rows": 73
 },
+"1161446": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 16
+},
+"1171667": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 22
+},
+"1171684": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 26
+},
 "1171733": {
 "fetched": "2026-10-27",
 "final": true,
@@ -488,6 +1018,16 @@
 "fetched": "2026-10-27",
 "final": false,
 "rows": 36
+},
+"117525": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 305
+},
+"117530": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 285
 },
 "117769": {
 "fetched": "2026-10-28",
@@ -514,6 +1054,31 @@
 "final": false,
 "rows": 47
 },
+"1178434": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 186
+},
+"1178436": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 208
+},
+"1178453": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 195
+},
+"1178455": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 199
+},
+"1178482": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 143
+},
 "1178893": {
 "fetched": "2026-10-28",
 "final": false,
@@ -529,20 +1094,50 @@
 "final": true,
 "rows": 1341
 },
+"119461": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 884
+},
 "119483": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 1128
+},
+"119521": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 678
+},
+"1197714": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 9
 },
 "119957": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 1244
 },
+"1219790": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 120
+},
 "1220826": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 43
+},
+"1273395": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1
+},
+"131568": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 642
 },
 "131798": {
 "fetched": "2026-10-28",
@@ -564,6 +1159,11 @@
 "final": true,
 "rows": 126
 },
+"133070": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 126
+},
 "133071": {
 "fetched": "2026-10-28",
 "final": true,
@@ -573,6 +1173,16 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 126
+},
+"133781": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1265
+},
+"133782": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1255
 },
 "133792": {
 "fetched": "2026-10-28",
@@ -593,6 +1203,11 @@
 "fetched": "2026-10-27",
 "final": false,
 "rows": 362
+},
+"145096": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 984
 },
 "147393": {
 "fetched": "2026-10-28",
@@ -623,6 +1238,16 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 472
+},
+"160533": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 257
+},
+"162226": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 261
 },
 "163587": {
 "fetched": "2026-10-28",
@@ -659,6 +1284,11 @@
 "final": false,
 "rows": 3452
 },
+"166938": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 606
+},
 "175261": {
 "fetched": "2026-10-27",
 "final": true,
@@ -678,6 +1308,16 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 80
+},
+"176991": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 643
+},
+"177007": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1023
 },
 "177009": {
 "fetched": "2026-10-27",
@@ -704,6 +1344,11 @@
 "final": true,
 "rows": 190
 },
+"177648": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 217
+},
 "177716": {
 "fetched": "2026-10-28",
 "final": true,
@@ -729,10 +1374,20 @@
 "final": true,
 "rows": 102
 },
+"179179": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 102
+},
 "179295": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 460
+},
+"182061": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 102
 },
 "184360": {
 "fetched": "2026-10-27",
@@ -754,6 +1409,11 @@
 "final": true,
 "rows": 212
 },
+"189699": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 98
+},
 "189700": {
 "fetched": "2026-10-28",
 "final": true,
@@ -769,10 +1429,120 @@
 "final": true,
 "rows": 315
 },
+"190688": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 569
+},
+"190871": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
+},
 "190872": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 507
+},
+"190873": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 508
+},
+"190874": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 513
+},
+"190875": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 508
+},
+"190877": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 516
+},
+"190879": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 494
+},
+"190880": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 479
+},
+"190882": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 519
+},
+"190884": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 508
+},
+"190888": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 512
+},
+"190889": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 502
+},
+"190891": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
+},
+"190892": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 510
+},
+"190894": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 486
+},
+"190895": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 489
+},
+"190897": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"190899": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 479
+},
+"190900": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 496
+},
+"190901": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 511
+},
+"190903": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 475
+},
+"190904": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 480
 },
 "190905": {
 "fetched": "2026-10-28",
@@ -784,25 +1554,275 @@
 "final": false,
 "rows": 484
 },
+"190907": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 524
+},
+"190908": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
+},
+"190909": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 505
+},
+"190910": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 488
+},
 "190911": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 482
+},
+"190912": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 498
+},
+"190914": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 517
 },
 "190915": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 489
 },
+"190916": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 489
+},
+"190917": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 483
+},
+"190919": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 514
+},
+"190921": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
+},
+"190922": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 503
+},
+"190923": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 482
+},
+"190925": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 522
+},
+"190926": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 494
+},
+"191377": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 495
+},
+"191378": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 486
+},
+"191379": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 504
+},
+"191380": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 495
+},
+"191381": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"191382": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"191383": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"191384": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 504
+},
+"191385": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 497
+},
+"191386": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 482
+},
+"191387": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 509
+},
+"191388": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 513
+},
+"191389": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 513
+},
+"191390": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 487
+},
+"191391": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 519
+},
+"191392": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 499
+},
+"191393": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 496
+},
+"191396": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 530
+},
+"191397": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 508
+},
+"191398": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 486
+},
 "191399": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 489
 },
+"191401": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 499
+},
+"191402": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"191404": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
+},
+"191405": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 478
+},
+"191406": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 522
+},
+"191409": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 506
+},
+"191410": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 483
+},
 "191411": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 501
+},
+"191412": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 484
+},
+"191413": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 504
+},
+"191414": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 517
+},
+"191415": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 486
+},
+"191416": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 509
+},
+"191417": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 526
+},
+"191418": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 487
+},
+"191419": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 486
+},
+"191420": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 477
 },
 "191421": {
 "fetched": "2026-10-28",
@@ -814,78 +1834,963 @@
 "final": false,
 "rows": 512
 },
+"191423": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
+},
+"191424": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"191427": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 479
+},
+"191428": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 488
+},
+"191429": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 497
+},
+"191431": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 485
+},
+"191432": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 526
+},
+"191433": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 488
+},
+"191434": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 492
+},
+"191435": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 515
+},
+"191436": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 473
+},
+"191437": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 497
+},
+"191439": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 487
+},
+"191440": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 482
+},
+"191441": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 506
+},
+"191442": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 481
+},
+"191443": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 477
+},
+"191444": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 500
+},
+"191445": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 486
+},
+"191446": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 502
+},
+"191447": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 501
+},
+"191448": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 486
+},
+"191449": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 483
+},
+"191450": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 494
+},
+"191453": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 504
+},
+"191454": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 492
+},
+"191455": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 510
+},
+"191459": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 508
+},
+"191460": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 515
+},
+"191461": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 489
+},
+"191462": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 502
+},
+"191463": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 496
+},
+"191464": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 522
+},
+"191465": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 509
+},
+"191466": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 487
+},
+"191467": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 486
+},
+"191468": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 488
+},
+"191469": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 502
+},
+"191470": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 487
+},
+"191471": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 497
+},
 "191472": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 502
+},
+"191473": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 507
+},
+"191475": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 492
+},
+"191476": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 482
+},
+"191477": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 511
 },
 "191478": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 483
 },
+"191479": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 505
+},
+"191480": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 485
+},
+"191481": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 512
+},
+"191484": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
+},
+"191485": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 497
+},
+"191486": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
+},
+"191488": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 519
+},
+"191489": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 489
+},
+"191491": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 494
+},
+"191492": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 493
+},
+"191493": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 481
+},
+"191494": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 506
+},
+"191496": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 503
+},
+"191497": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 472
+},
+"191499": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 507
+},
+"191501": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 494
+},
+"191502": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
+},
+"191504": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 488
+},
+"191505": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 493
+},
+"191506": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
+},
+"191507": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 483
+},
+"191508": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 475
+},
+"191509": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 512
+},
+"191510": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 522
+},
+"191511": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 484
+},
+"191512": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 518
+},
+"191513": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"191514": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 495
+},
 "191515": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 483
+},
+"191516": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 489
+},
+"191518": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 505
 },
 "191519": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 502
 },
+"191520": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 482
+},
+"191521": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 513
+},
+"191522": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 513
+},
+"191523": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 479
+},
+"191524": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 494
+},
 "191525": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 493
+},
+"191526": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 503
+},
+"191527": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"191528": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 493
+},
+"191529": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 499
+},
+"191530": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 485
+},
+"191531": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 481
+},
+"191532": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 510
+},
+"191533": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 518
+},
+"191534": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 514
+},
+"191535": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 493
+},
+"191536": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 488
 },
 "191537": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 486
 },
+"191539": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 487
+},
 "191540": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 482
+},
+"191541": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 514
+},
+"191542": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 498
+},
+"191543": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"191545": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 517
 },
 "191546": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 482
 },
+"191547": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 495
+},
+"191549": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 487
+},
+"191550": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 499
+},
+"191551": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 499
+},
+"191552": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 500
+},
+"191553": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 502
+},
+"191554": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 494
+},
+"191555": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 507
+},
+"191556": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"191557": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 480
+},
+"191559": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 495
+},
+"191560": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 505
+},
+"191561": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
+},
+"191562": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 498
+},
+"191563": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 478
+},
+"191564": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 502
+},
+"191565": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 505
+},
+"191566": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 484
+},
+"191567": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"191568": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 483
+},
+"191569": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 529
+},
+"191570": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 494
+},
+"191571": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 502
+},
 "191572": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 496
+},
+"191573": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 479
+},
+"191574": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 500
+},
+"191575": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 492
+},
+"191576": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 496
+},
+"191577": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 504
+},
+"191578": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 496
+},
+"191580": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 481
+},
+"191581": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
 },
 "191582": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 498
 },
+"191584": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 487
+},
+"191585": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 509
+},
+"191586": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 493
+},
 "191587": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 513
+},
+"191588": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 492
+},
+"191589": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 514
+},
+"191594": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 483
 },
 "191595": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 518
 },
+"191596": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 484
+},
+"191597": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 503
+},
+"191598": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 526
+},
+"191601": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 520
+},
+"191603": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 498
+},
+"191604": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 534
+},
+"191606": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 510
+},
+"191607": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 508
+},
+"191609": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 482
+},
+"191612": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 515
+},
+"191613": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 509
+},
+"191614": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"191615": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 512
+},
+"191616": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 476
+},
 "191617": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 499
+},
+"191618": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 501
+},
+"191619": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
+},
+"191620": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 506
+},
+"191622": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 508
+},
+"191623": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 520
+},
+"191624": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 483
+},
+"191625": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 488
+},
+"191626": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 487
+},
+"191627": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
 },
 "191628": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 500
 },
+"191629": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 517
+},
+"191630": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 479
+},
+"191631": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 506
+},
+"191632": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 486
+},
+"191633": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 482
+},
+"191634": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 470
+},
+"191635": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 517
+},
+"191636": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 519
+},
+"191637": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 486
+},
+"191638": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 507
+},
 "191639": {
 "fetched": "2026-10-28",
+"final": false,
+"rows": 494
+},
+"191640": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 513
+},
+"191641": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 486
+},
+"191642": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 505
+},
+"191643": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 478
+},
+"191644": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 515
+},
+"191646": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 475
+},
+"191647": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 505
+},
+"191648": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 484
+},
+"191649": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 483
+},
+"191650": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"191651": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 520
+},
+"191652": {
+"fetched": "2026-10-29",
 "final": false,
 "rows": 494
 },
@@ -893,6 +2798,66 @@
 "fetched": "2026-10-28",
 "final": false,
 "rows": 482
+},
+"191654": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 505
+},
+"191655": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 481
+},
+"191656": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 495
+},
+"191657": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 488
+},
+"191659": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 497
+},
+"191660": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 489
+},
+"191662": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 479
+},
+"191663": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 506
+},
+"191664": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 492
+},
+"191665": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 505
+},
+"191666": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 495
+},
+"191667": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 507
 },
 "191668": {
 "fetched": "2026-10-28",
@@ -904,25 +2869,125 @@
 "final": false,
 "rows": 500
 },
+"191670": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 500
+},
+"191671": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 499
+},
+"191672": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 488
+},
+"191673": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 491
+},
+"191674": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 534
+},
+"191675": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 511
+},
+"191676": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 508
+},
 "191677": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 483
+},
+"191678": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 508
+},
+"191679": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 494
+},
+"191680": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 490
+},
+"191681": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 507
 },
 "191682": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 482
 },
+"191683": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 523
+},
 "191684": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 485
 },
+"191685": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 488
+},
+"191686": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 477
+},
+"191687": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 503
+},
+"191688": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 481
+},
 "191690": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 487
+},
+"191691": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 494
+},
+"197791": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 56
+},
+"197918": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 95
+},
+"198679": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 389
 },
 "198684": {
 "fetched": "2026-10-28",
@@ -944,10 +3009,60 @@
 "final": true,
 "rows": 27
 },
+"199757": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 64
+},
+"199762": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 70
+},
+"200752": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 114
+},
 "200758": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 90
+},
+"200759": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 148
+},
+"200760": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 253
+},
+"200767": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 632
+},
+"200774": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 886
+},
+"200777": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 7
+},
+"201569": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 20
+},
+"201570": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 29
 },
 "201695": {
 "fetched": "2026-10-27",
@@ -963,6 +3078,11 @@
 "fetched": "2026-10-27",
 "final": false,
 "rows": 1630
+},
+"204605": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 554
 },
 "204610": {
 "fetched": "2026-10-28",
@@ -988,6 +3108,11 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 2636
+},
+"205204": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 2594
 },
 "211818": {
 "fetched": "2026-10-27",
@@ -1019,6 +3144,11 @@
 "final": true,
 "rows": 572
 },
+"217635": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 2480
+},
 "218090": {
 "fetched": "2026-10-27",
 "final": true,
@@ -1034,10 +3164,35 @@
 "final": true,
 "rows": 532
 },
+"226227": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 688
+},
+"22640": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 79
+},
+"22660": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 21
+},
+"227922": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 254
+},
 "22793": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 1480
+},
+"227989": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 359
 },
 "22816": {
 "fetched": "2026-10-28",
@@ -1048,6 +3203,16 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 56
+},
+"228509": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 33
+},
+"228528": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 33
 },
 "22858": {
 "fetched": "2026-10-28",
@@ -1063,6 +3228,31 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 727
+},
+"232533": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 109
+},
+"232576": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 714
+},
+"232585": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 739
+},
+"232667": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 825
+},
+"232722": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 282
 },
 "23321": {
 "fetched": "2026-10-27",
@@ -1123,6 +3313,11 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 496
+},
+"243963": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 161
 },
 "243968": {
 "fetched": "2026-10-27",
@@ -1194,6 +3389,11 @@
 "final": true,
 "rows": 195
 },
+"248561": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 833
+},
 "24880": {
 "fetched": "2026-10-27",
 "final": true,
@@ -1259,10 +3459,30 @@
 "final": true,
 "rows": 2280
 },
+"259447": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 441
+},
 "261273": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 94
+},
+"261869": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 88
+},
+"261876": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 95
+},
+"263185": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 141
 },
 "263217": {
 "fetched": "2026-10-28",
@@ -1344,6 +3564,11 @@
 "final": true,
 "rows": 451
 },
+"26877": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 41
+},
 "26878": {
 "fetched": "2026-10-27",
 "final": true,
@@ -1353,6 +3578,31 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 185
+},
+"281049": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 157
+},
+"28158": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 165
+},
+"28168": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 165
+},
+"28171": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 132
+},
+"28202": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 128
 },
 "28203": {
 "fetched": "2026-10-28",
@@ -1369,15 +3619,35 @@
 "final": true,
 "rows": 196
 },
+"286962": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 335
+},
+"287013": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 271
+},
 "287319": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 26
 },
+"287424": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 80
+},
 "287511": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 48
+},
+"287579": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 49
 },
 "287711": {
 "fetched": "2026-10-27",
@@ -1459,10 +3729,25 @@
 "final": true,
 "rows": 77
 },
+"307864": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 74
+},
 "30829": {
 "fetched": "2026-10-27",
 "final": false,
 "rows": 19371
+},
+"310660": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1360
+},
+"310691": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 835
 },
 "311040": {
 "fetched": "2026-10-27",
@@ -1483,6 +3768,11 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 52
+},
+"312120": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 50
 },
 "312179": {
 "fetched": "2026-10-28",
@@ -1509,6 +3799,11 @@
 "final": true,
 "rows": 1481
 },
+"31907": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 174
+},
 "32224": {
 "fetched": "2026-10-27",
 "final": false,
@@ -1533,6 +3828,11 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 34
+},
+"32589": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 18
 },
 "32590": {
 "fetched": "2026-10-27",
@@ -1584,6 +3884,21 @@
 "final": true,
 "rows": 924
 },
+"337461": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 13
+},
+"337506": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 32
+},
+"337688": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 4
+},
 "33820": {
 "fetched": "2026-10-27",
 "final": true,
@@ -1594,10 +3909,25 @@
 "final": true,
 "rows": 200
 },
+"33825": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 492
+},
 "33838": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 698
+},
+"33842": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 246
+},
+"33843": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 416
 },
 "33846": {
 "fetched": "2026-10-28",
@@ -1618,6 +3948,16 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 813
+},
+"33862": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 165
+},
+"33869": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 141
 },
 "34038": {
 "fetched": "2026-10-27",
@@ -1654,10 +3994,20 @@
 "final": true,
 "rows": 107
 },
+"340884": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 74
+},
 "343915": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 105
+},
+"343917": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 19
 },
 "343918": {
 "fetched": "2026-10-28",
@@ -1699,6 +4049,11 @@
 "final": true,
 "rows": 86
 },
+"352025": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 668
+},
 "36098": {
 "fetched": "2026-10-28",
 "final": true,
@@ -1729,6 +4084,11 @@
 "final": true,
 "rows": 138
 },
+"37341": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 92
+},
 "37348": {
 "fetched": "2026-10-28",
 "final": true,
@@ -1743,6 +4103,16 @@
 "fetched": "2026-10-28",
 "final": false,
 "rows": 8024
+},
+"378881": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 6514
+},
+"382076": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 88
 },
 "382609": {
 "fetched": "2026-10-28",
@@ -1769,6 +4139,16 @@
 "final": true,
 "rows": 139
 },
+"386069": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 47
+},
+"386100": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 284
+},
 "386211": {
 "fetched": "2026-10-28",
 "final": true,
@@ -1794,10 +4174,25 @@
 "final": true,
 "rows": 252
 },
+"389896": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 91
+},
 "389913": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 148
+},
+"389921": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 147
+},
+"389923": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 129
 },
 "39409": {
 "fetched": "2026-10-28",
@@ -1814,8 +4209,43 @@
 "final": true,
 "rows": 205
 },
+"39620": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 205
+},
+"39622": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 205
+},
+"39623": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 205
+},
 "39624": {
 "fetched": "2026-10-28",
+"final": true,
+"rows": 205
+},
+"39633": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 41
+},
+"39634": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 41
+},
+"39635": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 41
+},
+"39637": {
+"fetched": "2026-10-29",
 "final": true,
 "rows": 205
 },
@@ -1834,10 +4264,20 @@
 "final": true,
 "rows": 528
 },
+"403262": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 626
+},
 "403295": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 948
+},
+"403518": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 916
 },
 "403541": {
 "fetched": "2026-10-28",
@@ -1894,6 +4334,16 @@
 "final": true,
 "rows": 228
 },
+"410826": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 84
+},
+"410827": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 84
+},
 "410970": {
 "fetched": "2026-10-28",
 "final": true,
@@ -1934,6 +4384,11 @@
 "final": true,
 "rows": 900
 },
+"41682": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 156
+},
 "420982": {
 "fetched": "2026-10-28",
 "final": true,
@@ -1958,6 +4413,11 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 958
+},
+"42252": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 89
 },
 "42272": {
 "fetched": "2026-10-28",
@@ -1984,6 +4444,11 @@
 "final": true,
 "rows": 473
 },
+"42604": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 510
+},
 "428819": {
 "fetched": "2026-10-27",
 "final": false,
@@ -1993,6 +4458,11 @@
 "fetched": "2026-10-28",
 "final": false,
 "rows": 1064
+},
+"431465": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1234
 },
 "43172": {
 "fetched": "2026-10-27",
@@ -2004,15 +4474,35 @@
 "final": true,
 "rows": 492
 },
+"431847": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1065
+},
+"432202": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 66
+},
 "432501": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 180
 },
+"432516": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 186
+},
 "432545": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 186
+},
+"432563": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 124
 },
 "434869": {
 "fetched": "2026-10-28",
@@ -2023,6 +4513,11 @@
 "fetched": "2026-10-27",
 "final": false,
 "rows": 2106
+},
+"435884": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 3111
 },
 "438483": {
 "fetched": "2026-10-28",
@@ -2089,8 +4584,18 @@
 "final": true,
 "rows": 46
 },
+"452834": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 69
+},
 "45466": {
 "fetched": "2026-10-27",
+"final": true,
+"rows": 192
+},
+"45469": {
+"fetched": "2026-10-29",
 "final": true,
 "rows": 192
 },
@@ -2104,10 +4609,35 @@
 "final": true,
 "rows": 132
 },
+"46886": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 64
+},
+"478634": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 133
+},
 "478687": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 116
+},
+"478725": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 436
+},
+"478740": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 436
+},
+"478770": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 785
 },
 "48078": {
 "fetched": "2026-10-27",
@@ -2124,6 +4654,11 @@
 "final": true,
 "rows": 119
 },
+"482167": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 154
+},
 "482873": {
 "fetched": "2026-10-27",
 "final": true,
@@ -2138,6 +4673,11 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 360
+},
+"485258": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 25
 },
 "485327": {
 "fetched": "2026-10-27",
@@ -2154,6 +4694,16 @@
 "final": true,
 "rows": 301
 },
+"485631": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1759
+},
+"485725": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 6
+},
 "489273": {
 "fetched": "2026-10-28",
 "final": false,
@@ -2163,6 +4713,16 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 355
+},
+"498617": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 270
+},
+"499657": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 272
 },
 "502873": {
 "fetched": "2026-10-27",
@@ -2174,6 +4734,16 @@
 "final": true,
 "rows": 1079
 },
+"503231": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 288
+},
+"503398": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 70
+},
 "508139": {
 "fetched": "2026-10-28",
 "final": true,
@@ -2184,10 +4754,30 @@
 "final": true,
 "rows": 352
 },
+"510828": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 220
+},
+"510970": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 930
+},
+"51131": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 26
+},
 "514577": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 198
+},
+"51620": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 94
 },
 "52245": {
 "fetched": "2026-10-28",
@@ -2209,35 +4799,95 @@
 "final": true,
 "rows": 35
 },
+"527468": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 555
+},
+"531050": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 260
+},
+"531266": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 303
+},
 "531333": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 5190
+},
+"531425": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 344
 },
 "531878": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 647
 },
+"53212": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 31
+},
 "53217": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 245
+},
+"548897": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 14
+},
+"548938": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 14
 },
 "54928": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 60
 },
+"54935": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 273
+},
 "54971": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 219
 },
+"54974": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 84
+},
+"54981": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 119
+},
+"54987": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 57
+},
 "54991": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 65
+},
+"54998": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 56
 },
 "552316": {
 "fetched": "2026-10-28",
@@ -2259,6 +4909,11 @@
 "final": true,
 "rows": 40
 },
+"563117": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 102
+},
 "563118": {
 "fetched": "2026-10-28",
 "final": true,
@@ -2268,6 +4923,16 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 100
+},
+"563152": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 488
+},
+"563179": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 452
 },
 "57096": {
 "fetched": "2026-10-27",
@@ -2284,6 +4949,11 @@
 "final": false,
 "rows": 703
 },
+"57154": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 731
+},
 "57160": {
 "fetched": "2026-10-28",
 "final": false,
@@ -2294,10 +4964,25 @@
 "final": false,
 "rows": 735
 },
+"57164": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 706
+},
 "57169": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 727
+},
+"57172": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 704
+},
+"57173": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 711
 },
 "57175": {
 "fetched": "2026-10-28",
@@ -2314,10 +4999,25 @@
 "final": false,
 "rows": 708
 },
+"57178": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 718
+},
 "57181": {
 "fetched": "2026-10-27",
 "final": false,
 "rows": 709
+},
+"57182": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 720
+},
+"57183": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 702
 },
 "57184": {
 "fetched": "2026-10-28",
@@ -2339,6 +5039,31 @@
 "final": false,
 "rows": 724
 },
+"57206": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 705
+},
+"57207": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 907
+},
+"57208": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 713
+},
+"57209": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 704
+},
+"57210": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 709
+},
 "57222": {
 "fetched": "2026-10-27",
 "final": false,
@@ -2354,6 +5079,16 @@
 "final": false,
 "rows": 699
 },
+"573050": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 203
+},
+"573276": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 38
+},
 "573701": {
 "fetched": "2026-10-27",
 "final": true,
@@ -2363,6 +5098,11 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 10
+},
+"574464": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 52
 },
 "574717": {
 "fetched": "2026-10-27",
@@ -2374,6 +5114,16 @@
 "final": false,
 "rows": 707
 },
+"57640": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 707
+},
+"57641": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 705
+},
 "57642": {
 "fetched": "2026-10-28",
 "final": false,
@@ -2383,6 +5133,11 @@
 "fetched": "2026-10-28",
 "final": false,
 "rows": 765
+},
+"57646": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 713
 },
 "57647": {
 "fetched": "2026-10-27",
@@ -2394,10 +5149,20 @@
 "final": false,
 "rows": 712
 },
+"57649": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 719
+},
 "57650": {
 "fetched": "2026-10-27",
 "final": false,
 "rows": 693
+},
+"57655": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 709
 },
 "57658": {
 "fetched": "2026-10-27",
@@ -2419,6 +5184,16 @@
 "final": false,
 "rows": 702
 },
+"57662": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 702
+},
+"57663": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 714
+},
 "57664": {
 "fetched": "2026-10-28",
 "final": false,
@@ -2428,6 +5203,11 @@
 "fetched": "2026-10-27",
 "final": false,
 "rows": 709
+},
+"57670": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 776
 },
 "57671": {
 "fetched": "2026-10-28",
@@ -2444,6 +5224,11 @@
 "final": false,
 "rows": 704
 },
+"57679": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 713
+},
 "57681": {
 "fetched": "2026-10-28",
 "final": false,
@@ -2454,10 +5239,35 @@
 "final": false,
 "rows": 723
 },
+"577958": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 70
+},
+"577961": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 72
+},
+"578061": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 136
+},
 "578085": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 899
+},
+"578437": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 813
+},
+"578439": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 583
 },
 "578440": {
 "fetched": "2026-10-28",
@@ -2479,10 +5289,40 @@
 "final": true,
 "rows": 103
 },
+"580723": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 781
+},
 "5828": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 7480
+},
+"587427": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 276
+},
+"587443": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 687
+},
+"587444": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 892
+},
+"587445": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 656
+},
+"59203": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 705
 },
 "59204": {
 "fetched": "2026-10-27",
@@ -2504,40 +5344,135 @@
 "final": false,
 "rows": 3903
 },
+"598399": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 310
+},
 "609372": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 154
+},
+"610365": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 323
+},
+"610373": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 324
+},
+"610374": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 284
+},
+"612212": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 265
 },
 "612227": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 565
 },
+"62364": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 70
+},
 "62671": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 176
+},
+"627661": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 271
 },
 "627774": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 893
 },
+"627782": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 508
+},
 "627849": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 175
+},
+"631082": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 14
+},
+"631083": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 547
 },
 "631084": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 14
 },
+"633839": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1558
+},
+"633958": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 427
+},
 "634287": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 145
+},
+"637114": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 169
+},
+"637174": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 242
+},
+"637176": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 238
+},
+"637177": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 237
+},
+"637194": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 241
+},
+"637203": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 238
+},
+"637267": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 234
 },
 "637442": {
 "fetched": "2026-10-27",
@@ -2549,6 +5484,11 @@
 "final": true,
 "rows": 14
 },
+"64572": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 2
+},
 "64726": {
 "fetched": "2026-10-28",
 "final": true,
@@ -2558,6 +5498,31 @@
 "fetched": "2026-10-27",
 "final": false,
 "rows": 351
+},
+"64785": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 40
+},
+"64786": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 40
+},
+"64787": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 40
+},
+"64788": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 10
+},
+"648860": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 96
 },
 "648983": {
 "fetched": "2026-10-28",
@@ -2574,10 +5539,45 @@
 "final": true,
 "rows": 30
 },
+"656312": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 982
+},
+"656321": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 42
+},
+"656322": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 84
+},
 "656451": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 334
+},
+"659871": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 48
+},
+"659879": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 137
+},
+"659888": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 105
+},
+"659974": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 40
 },
 "660100": {
 "fetched": "2026-10-28",
@@ -2594,10 +5594,25 @@
 "final": true,
 "rows": 210
 },
+"674267": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 89
+},
+"674332": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 765
+},
 "674406": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 282
+},
+"674585": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 214
 },
 "674586": {
 "fetched": "2026-10-28",
@@ -2609,15 +5624,30 @@
 "final": true,
 "rows": 474
 },
+"674591": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 304
+},
 "677008": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 370
 },
+"678683": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 595
+},
 "678684": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 592
+},
+"678764": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 36
 },
 "678765": {
 "fetched": "2026-10-27",
@@ -2634,10 +5664,45 @@
 "final": true,
 "rows": 217
 },
+"681950": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 193
+},
+"682248": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 837
+},
+"682256": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 637
+},
 "686207": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 260
+},
+"686263": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 74
+},
+"686301": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 210
+},
+"686319": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 212
+},
+"686320": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 213
 },
 "686525": {
 "fetched": "2026-10-28",
@@ -2653,6 +5718,11 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 643
+},
+"695542": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 34
 },
 "69565": {
 "fetched": "2026-10-27",
@@ -2674,10 +5744,105 @@
 "final": true,
 "rows": 151
 },
+"700891": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 413
+},
+"703403": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1128
+},
+"704545": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 124
+},
+"707739": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 383
+},
+"707761": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 55
+},
+"710137": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 174
+},
+"710150": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 291
+},
+"711851": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 112
+},
+"712237": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1443
+},
+"714877": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 191
+},
+"719096": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 84
+},
+"726759": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 89
+},
+"726760": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 44
+},
+"726761": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 67
+},
+"726857": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 235
+},
+"726873": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 115
+},
+"726881": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 190
+},
+"726903": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 32
+},
 "727086": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 96
+},
+"730834": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 57
 },
 "730871": {
 "fetched": "2026-10-28",
@@ -2688,6 +5853,11 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 464
+},
+"73184": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 345
 },
 "735521": {
 "fetched": "2026-10-27",
@@ -2708,6 +5878,11 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 65
+},
+"73598": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 78
 },
 "73599": {
 "fetched": "2026-10-28",
@@ -2749,6 +5924,11 @@
 "final": true,
 "rows": 29
 },
+"739934": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 58
+},
 "739935": {
 "fetched": "2026-10-28",
 "final": true,
@@ -2759,15 +5939,35 @@
 "final": true,
 "rows": 288
 },
+"740341": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 162
+},
+"740342": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 211
+},
 "740351": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 179
 },
+"740352": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 131
+},
 "74045": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 180
+},
+"740601": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 79
 },
 "74070": {
 "fetched": "2026-10-27",
@@ -2779,10 +5979,30 @@
 "final": true,
 "rows": 29
 },
+"743465": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 256
+},
 "743544": {
 "fetched": "2026-10-27",
 "final": false,
 "rows": 2039
+},
+"745517": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 386
+},
+"745550": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 307
+},
+"745551": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 297
 },
 "745592": {
 "fetched": "2026-10-28",
@@ -2814,10 +6034,40 @@
 "final": false,
 "rows": 1970
 },
+"753267": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 48
+},
 "753268": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 47
+},
+"753269": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 164
+},
+"753284": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 48
+},
+"753287": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 70
+},
+"753288": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 95
+},
+"753289": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 229
 },
 "75600": {
 "fetched": "2026-10-27",
@@ -2834,30 +6084,85 @@
 "final": true,
 "rows": 70
 },
+"758799": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 673
+},
 "758936": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 96
+},
+"759013": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 178
+},
+"765647": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 508
+},
+"765715": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 458
 },
 "766099": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 252
 },
+"766107": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 16
+},
+"766108": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 16
+},
 "766123": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 93
+},
+"766140": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 86
 },
 "770079": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 453
 },
+"770080": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 456
+},
+"770081": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 463
+},
 "770150": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 101
+},
+"773684": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1726
+},
+"774052": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 137
 },
 "78983": {
 "fetched": "2026-10-27",
@@ -2868,6 +6173,56 @@
 "fetched": "2026-10-28",
 "final": false,
 "rows": 570
+},
+"796828": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 194
+},
+"797177": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 812
+},
+"797178": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 808
+},
+"797234": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 798
+},
+"797267": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 817
+},
+"797298": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 804
+},
+"797299": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 815
+},
+"797325": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 657
+},
+"797327": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 816
+},
+"797333": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 885
 },
 "798125": {
 "fetched": "2026-10-28",
@@ -2899,6 +6254,11 @@
 "final": true,
 "rows": 1955
 },
+"80018": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 720
+},
 "80029": {
 "fetched": "2026-10-27",
 "final": false,
@@ -2909,15 +6269,185 @@
 "final": true,
 "rows": 1433
 },
+"80038": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 769
+},
 "80052": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 1728
 },
+"80065": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 793
+},
+"800708": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1290
+},
 "80071": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 1028
+},
+"800725": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1072
+},
+"800734": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1534
+},
+"800738": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1690
+},
+"800746": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1607
+},
+"800747": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1300
+},
+"800762": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1681
+},
+"800763": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1689
+},
+"800764": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1768
+},
+"800786": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 2243
+},
+"800801": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1763
+},
+"800810": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 2084
+},
+"800819": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1692
+},
+"800820": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1196
+},
+"800835": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 471
+},
+"800837": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 840
+},
+"801942": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 800
+},
+"802308": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 804
+},
+"802313": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 879
+},
+"803026": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 799
+},
+"803038": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 806
+},
+"803117": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 729
+},
+"803154": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 802
+},
+"803156": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 884
+},
+"803157": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 803
+},
+"805271": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1757
+},
+"80796": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1311
+},
+"808135": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 802
+},
+"808138": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 802
+},
+"808157": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 796
+},
+"80854": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 400
+},
+"80868": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 56
 },
 "808768": {
 "fetched": "2026-10-28",
@@ -2929,6 +6459,21 @@
 "final": true,
 "rows": 360
 },
+"808770": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 288
+},
+"808771": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 288
+},
+"808787": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 272
+},
 "808791": {
 "fetched": "2026-10-28",
 "final": true,
@@ -2938,6 +6483,16 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 774
+},
+"80931": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 75
+},
+"80967": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 27
 },
 "810896": {
 "fetched": "2026-10-27",
@@ -2954,6 +6509,46 @@
 "final": true,
 "rows": 10
 },
+"812063": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 778
+},
+"812080": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 779
+},
+"812475": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 423
+},
+"812632": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 778
+},
+"812669": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 788
+},
+"812679": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 782
+},
+"812700": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 12
+},
+"812701": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 12
+},
 "81543": {
 "fetched": "2026-10-28",
 "final": true,
@@ -2964,20 +6559,345 @@
 "final": false,
 "rows": 5132
 },
+"81651": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 378
+},
 "81707": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 489
+},
+"826315": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 476
+},
+"826326": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 203
+},
+"826347": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 794
+},
+"826392": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 482
+},
+"826522": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 530
+},
+"826527": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 447
+},
+"826557": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 522
+},
+"826558": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 274
+},
+"826575": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 304
+},
+"826592": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 351
+},
+"828081": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 751
+},
+"828117": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 683
+},
+"828239": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 756
+},
+"828241": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 759
+},
+"828261": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 752
+},
+"828346": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 679
+},
+"828389": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 758
+},
+"828393": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 752
+},
+"828397": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 749
+},
+"828409": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 755
+},
+"829701": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 465
+},
+"829712": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 672
+},
+"829713": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 670
+},
+"829715": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 520
+},
+"829716": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 622
+},
+"829741": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 593
+},
+"829742": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 667
+},
+"829778": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 652
 },
 "830589": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 363
 },
+"830720": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 290
+},
+"830721": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 288
+},
+"830746": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 266
+},
 "830755": {
 "fetched": "2026-10-28",
 "final": false,
 "rows": 773
+},
+"830756": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 526
+},
+"833121": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 524
+},
+"833438": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 366
+},
+"833440": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 453
+},
+"833441": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 518
+},
+"833461": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 589
+},
+"833463": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 523
+},
+"834121": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 749
+},
+"834126": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 589
+},
+"834205": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 735
+},
+"834352": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 672
+},
+"834361": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 672
+},
+"834391": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 675
+},
+"834398": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 744
+},
+"834410": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 745
+},
+"834424": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 586
+},
+"834444": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 738
+},
+"834471": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 739
+},
+"834472": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 749
+},
+"834474": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 740
+},
+"834477": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 668
+},
+"834487": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 669
+},
+"834489": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 658
+},
+"834496": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 751
+},
+"834517": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 601
+},
+"834521": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 674
+},
+"834627": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 742
+},
+"834632": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 746
+},
+"834634": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 752
+},
+"834872": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 739
+},
+"834884": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 735
+},
+"834898": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 734
+},
+"834899": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 743
 },
 "836548": {
 "fetched": "2026-10-28",
@@ -3014,10 +6934,60 @@
 "final": true,
 "rows": 173
 },
+"839250": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 224
+},
+"839288": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1402
+},
+"839289": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 814
+},
+"839291": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1329
+},
+"839292": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1106
+},
+"839293": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1184
+},
+"839294": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1466
+},
+"839298": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1037
+},
 "84057": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 216
+},
+"842915": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 312
+},
+"842916": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 312
 },
 "842917": {
 "fetched": "2026-10-28",
@@ -3026,6 +6996,11 @@
 },
 "842954": {
 "fetched": "2026-10-28",
+"final": true,
+"rows": 35
+},
+"842971": {
+"fetched": "2026-10-29",
 "final": true,
 "rows": 35
 },
@@ -3044,6 +7019,31 @@
 "final": true,
 "rows": 146
 },
+"843055": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 146
+},
+"843056": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 147
+},
+"843059": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 146
+},
+"843062": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 148
+},
+"844727": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 154
+},
 "848341": {
 "fetched": "2026-10-27",
 "final": false,
@@ -3053,6 +7053,36 @@
 "fetched": "2026-10-28",
 "final": false,
 "rows": 208
+},
+"848370": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 212
+},
+"848407": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 208
+},
+"848409": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 427
+},
+"848435": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 213
+},
+"848436": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 147
+},
+"850794": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 156
 },
 "85704": {
 "fetched": "2026-10-27",
@@ -3064,33 +7094,353 @@
 "final": true,
 "rows": 72
 },
+"864206": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 384
+},
 "864216": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 453
+},
+"864227": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 294
+},
+"864228": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 539
+},
+"864257": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 461
+},
+"864272": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 656
 },
 "864275": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 593
 },
+"864278": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 294
+},
+"864279": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 392
+},
+"864288": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 392
+},
+"864290": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 343
+},
+"864291": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 343
+},
+"864311": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 442
+},
+"864312": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 441
+},
+"864314": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 441
+},
+"864315": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 490
+},
+"864316": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 490
+},
+"864317": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 392
+},
+"864318": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 392
+},
+"864327": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
 "864328": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 637
+},
+"864330": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 550
+},
+"864332": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 539
+},
+"864333": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 539
+},
+"864334": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 539
+},
+"864342": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 871
+},
+"864345": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 871
+},
+"864349": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 490
+},
+"864359": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 500
+},
+"864360": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 490
+},
+"864361": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 550
+},
+"864362": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 490
+},
+"864363": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 588
+},
+"864364": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 980
+},
+"864365": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 441
+},
+"864383": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 784
+},
+"864385": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 686
+},
+"864386": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 490
+},
+"864387": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864388": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 643
+},
+"864389": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864390": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 539
 },
 "864391": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 686
 },
+"864392": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864393": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 550
+},
+"864394": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 490
+},
+"864395": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 588
+},
+"864404": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 980
+},
+"864405": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 441
+},
+"864406": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 784
+},
+"864407": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 700
+},
+"864408": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 490
+},
+"864409": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864425": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 643
+},
+"864426": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864427": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 539
+},
 "864428": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 700
 },
+"864429": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864456": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864457": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 652
+},
+"864460": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
 "864470": {
 "fetched": "2026-10-28",
+"final": true,
+"rows": 637
+},
+"864472": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864475": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864476": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864488": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864490": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864492": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864495": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 637
+},
+"864496": {
+"fetched": "2026-10-29",
 "final": true,
 "rows": 637
 },
@@ -3104,6 +7454,86 @@
 "final": true,
 "rows": 108
 },
+"870848": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 548
+},
+"870851": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 538
+},
+"870852": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 538
+},
+"870865": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 616
+},
+"870880": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 673
+},
+"870883": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 538
+},
+"870908": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 679
+},
+"870919": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 671
+},
+"870997": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 47
+},
+"870998": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 47
+},
+"871000": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 576
+},
+"871001": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 589
+},
+"871002": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 794
+},
+"871011": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 533
+},
+"871012": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 637
+},
+"871013": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 593
+},
 "87137": {
 "fetched": "2026-10-27",
 "final": true,
@@ -3114,13 +7544,103 @@
 "final": false,
 "rows": 590
 },
+"877070": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 375
+},
+"879830": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 265
+},
+"879907": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 261
+},
+"879965": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 90
+},
+"879966": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 75
+},
+"881571": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 530
+},
+"881573": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 449
+},
+"881574": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 517
+},
+"881650": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 66
+},
+"881687": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 256
+},
+"881711": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 128
+},
 "881712": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 128
 },
+"881713": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 128
+},
+"881714": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 130
+},
+"881715": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 128
+},
+"881716": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 18
+},
+"881724": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 18
+},
+"881737": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 18
+},
 "881744": {
 "fetched": "2026-10-28",
+"final": true,
+"rows": 72
+},
+"881745": {
+"fetched": "2026-10-29",
 "final": true,
 "rows": 72
 },
@@ -3144,6 +7664,16 @@
 "final": true,
 "rows": 72
 },
+"881773": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 32
+},
+"881781": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 128
+},
 "881782": {
 "fetched": "2026-10-28",
 "final": true,
@@ -3159,10 +7689,45 @@
 "final": true,
 "rows": 128
 },
+"881786": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 128
+},
+"881787": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 128
+},
 "882623": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 84
+},
+"884935": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 100
+},
+"886836": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 384
+},
+"886859": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 12
+},
+"886876": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 12
+},
+"886931": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 40
 },
 "89386": {
 "fetched": "2026-10-28",
@@ -3178,6 +7743,11 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 428
+},
+"901321": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 301
 },
 "902090": {
 "fetched": "2026-10-27",
@@ -3204,10 +7774,20 @@
 "final": true,
 "rows": 490
 },
+"90270": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 633
+},
 "902772": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 171
+},
+"902824": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 2
 },
 "902825": {
 "fetched": "2026-10-28",
@@ -3219,6 +7799,16 @@
 "final": true,
 "rows": 126
 },
+"902869": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 10
+},
+"902875": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 24
+},
 "90292": {
 "fetched": "2026-10-28",
 "final": true,
@@ -3228,6 +7818,16 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 343
+},
+"902982": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 39
+},
+"902983": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 12
 },
 "90302": {
 "fetched": "2026-10-28",
@@ -3244,10 +7844,20 @@
 "final": true,
 "rows": 76
 },
+"903100": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 43
+},
 "903112": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 76
+},
+"90313": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 716
 },
 "903175": {
 "fetched": "2026-10-28",
@@ -3359,6 +7969,11 @@
 "final": true,
 "rows": 148
 },
+"90330": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 730
+},
 "903306": {
 "fetched": "2026-10-27",
 "final": true,
@@ -3368,6 +7983,11 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 196
+},
+"903344": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 102
 },
 "90335": {
 "fetched": "2026-10-27",
@@ -3384,6 +8004,11 @@
 "final": true,
 "rows": 8
 },
+"903371": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 34
+},
 "90340": {
 "fetched": "2026-10-28",
 "final": false,
@@ -3393,6 +8018,16 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 898
+},
+"90345": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1195
+},
+"90350": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1028
 },
 "903514": {
 "fetched": "2026-10-27",
@@ -3404,6 +8039,11 @@
 "final": true,
 "rows": 214
 },
+"903527": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 60
+},
 "903537": {
 "fetched": "2026-10-27",
 "final": true,
@@ -3413,6 +8053,11 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 51
+},
+"903568": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 17
 },
 "90359": {
 "fetched": "2026-10-28",
@@ -3459,20 +8104,45 @@
 "final": true,
 "rows": 734
 },
+"903678": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 6
+},
 "903683": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 732
+},
+"903685": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 50
 },
 "903686": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 99
 },
+"903697": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 105
+},
+"903704": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 2
+},
 "903705": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 56
+},
+"903739": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 82
 },
 "903744": {
 "fetched": "2026-10-27",
@@ -3489,6 +8159,16 @@
 "final": true,
 "rows": 1083
 },
+"903783": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 2
+},
+"903792": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 136
+},
 "90400": {
 "fetched": "2026-10-27",
 "final": true,
@@ -3498,6 +8178,11 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 1843
+},
+"90408": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1048
 },
 "90415": {
 "fetched": "2026-10-28",
@@ -3514,15 +8199,60 @@
 "final": false,
 "rows": 1387
 },
+"90431": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 439
+},
 "90434": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 1719
 },
+"90436": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 2036
+},
+"90451": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 154
+},
 "904730": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 48
+},
+"905355": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 157
+},
+"905356": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 159
+},
+"905366": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 160
+},
+"905568": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 197
+},
+"905569": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 409
+},
+"905593": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 365
 },
 "90625": {
 "fetched": "2026-10-27",
@@ -3538,6 +8268,16 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 1791
+},
+"912206": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 293
+},
+"912223": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 23
 },
 "91232": {
 "fetched": "2026-10-28",
@@ -3559,10 +8299,50 @@
 "final": true,
 "rows": 208
 },
+"920629": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 240
+},
+"920829": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 354
+},
+"920830": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 280
+},
+"920831": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 275
+},
+"920856": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 876
+},
+"927746": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 557
+},
 "92824": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 63
+},
+"92829": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 63
+},
+"92830": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 54
 },
 "92831": {
 "fetched": "2026-10-28",
@@ -3574,6 +8354,11 @@
 "final": true,
 "rows": 130
 },
+"93602": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 6
+},
 "943054": {
 "fetched": "2026-10-27",
 "final": true,
@@ -3584,15 +8369,35 @@
 "final": false,
 "rows": 164
 },
+"943657": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 36
+},
+"943984": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 133
+},
 "948294": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 867
 },
+"948540": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 107
+},
 "95000": {
 "fetched": "2026-10-27",
 "final": true,
 "rows": 216
+},
+"95006": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 644
 },
 "95011": {
 "fetched": "2026-10-28",
@@ -3604,15 +8409,40 @@
 "final": true,
 "rows": 864
 },
+"950992": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 30
+},
+"951021": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 142
+},
 "951022": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 95
 },
+"951047": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 134
+},
+"951071": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 133
+},
 "951073": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 135
+},
+"95110": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1187
 },
 "95115": {
 "fetched": "2026-10-28",
@@ -3638,6 +8468,26 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 4
+},
+"95323": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 0
+},
+"954492": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 106
+},
+"95685": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 1
+},
+"95897": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 578
 },
 "95902": {
 "fetched": "2026-10-28",
@@ -3674,6 +8524,26 @@
 "final": false,
 "rows": 1689
 },
+"95983": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 350
+},
+"96014": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 419
+},
+"96058": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 569
+},
+"961220": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 314
+},
 "96539": {
 "fetched": "2026-10-27",
 "final": true,
@@ -3683,6 +8553,11 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 1088
+},
+"965484": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 93
 },
 "965494": {
 "fetched": "2026-10-28",
@@ -3709,6 +8584,11 @@
 "final": false,
 "rows": 2333
 },
+"966905": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 345
+},
 "96734": {
 "fetched": "2026-10-28",
 "final": false,
@@ -3729,10 +8609,40 @@
 "final": false,
 "rows": 900
 },
+"97271": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 731
+},
+"97308": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 306
+},
+"97315": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 631
+},
 "97421": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 613
+},
+"97441": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 325
+},
+"97448": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 1309
+},
+"97449": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 489
 },
 "97450": {
 "fetched": "2026-10-27",
@@ -3743,6 +8653,16 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 902
+},
+"97471": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 180
+},
+"97496": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 404
 },
 "97497": {
 "fetched": "2026-10-27",
@@ -3769,6 +8689,11 @@
 "final": true,
 "rows": 2965
 },
+"97539": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 477
+},
 "98142": {
 "fetched": "2026-10-27",
 "final": true,
@@ -3783,6 +8708,26 @@
 "fetched": "2026-10-28",
 "final": true,
 "rows": 1009
+},
+"98225": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 460
+},
+"989726": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 460
+},
+"990698": {
+"fetched": "2026-10-29",
+"final": true,
+"rows": 55
+},
+"996047": {
+"fetched": "2026-10-29",
+"final": false,
+"rows": 228
 },
 "999883": {
 "fetched": "2026-10-28",
