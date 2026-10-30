@@ -1125,9 +1125,9 @@
 "rows": 371
 },
 "KXALBERTAREFS-26OCT19": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 136
+"fetched": "2026-10-30",
+"final": true,
+"rows": 146
 },
 "KXALBERTAREFYES-29": {
 "fetched": "2026-10-27",
@@ -1760,9 +1760,9 @@
 "rows": 50
 },
 "KXBEITEINUCOUNT-26OCT27": {
-"fetched": "2026-10-28",
-"final": false,
-"rows": 98
+"fetched": "2026-10-30",
+"final": true,
+"rows": 105
 },
 "KXBELIZECITYMAYOR-27MAR03": {
 "fetched": "2026-10-28",
@@ -2430,9 +2430,9 @@
 "rows": 611
 },
 "KXCANALBERTAREMAIN-26OCT19": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 209
+"fetched": "2026-10-30",
+"final": true,
+"rows": 225
 },
 "KXCANARIAS-27MAY23": {
 "fetched": "2026-10-28",
@@ -3518,6 +3518,11 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 1704
+},
+"KXDCFOIEGRAS-26NOV03": {
+"fetched": "2026-10-30",
+"final": false,
+"rows": 2
 },
 "KXDCMAYORD-26": {
 "fetched": "2026-10-27",
@@ -8330,34 +8335,34 @@
 "rows": 690
 },
 "KXISRAEL2ND-26OCT27-2": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 861
+"fetched": "2026-10-30",
+"final": true,
+"rows": 907
 },
 "KXISRAEL3RD-26OCT27-3": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 561
+"fetched": "2026-10-30",
+"final": true,
+"rows": 607
 },
 "KXISRAEL4TH-26OCT27-4": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 173
+"fetched": "2026-10-30",
+"final": true,
+"rows": 200
 },
 "KXISRAELANYSEAT-26OCT27": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 979
+"fetched": "2026-10-30",
+"final": true,
+"rows": 1024
 },
 "KXISRAELBLOCMAJ-26OCT27": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 62
+"fetched": "2026-10-30",
+"final": true,
+"rows": 68
 },
 "KXISRAELBLOCMOST-26OCT27": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 42
+"fetched": "2026-10-30",
+"final": true,
+"rows": 46
 },
 "KXISRAELGOVT-28JAN01": {
 "fetched": "2026-10-27",
@@ -8370,9 +8375,9 @@
 "rows": 11
 },
 "KXISRAELKNESSET-26": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 1739
+"fetched": "2026-10-30",
+"final": true,
+"rows": 1756
 },
 "KXISRAELPM-26OCT27": {
 "fetched": "2026-10-27",
@@ -8380,14 +8385,14 @@
 "rows": 1425
 },
 "KXISRAELTHRESH-26NOV03": {
-"fetched": "2026-10-28",
-"final": false,
-"rows": 63
+"fetched": "2026-10-30",
+"final": true,
+"rows": 69
 },
 "KXISRAELTURNOUT-26OCT27": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 252
+"fetched": "2026-10-30",
+"final": true,
+"rows": 274
 },
 "KXISRDEFMIN-30": {
 "fetched": "2026-10-27",
@@ -8810,9 +8815,9 @@
 "rows": 161
 },
 "KXLA13-26": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 468
+"fetched": "2026-10-30",
+"final": true,
+"rows": 480
 },
 "KXLABOROKNOMR-26": {
 "fetched": "2026-10-28",
@@ -9050,9 +9055,9 @@
 "rows": 63
 },
 "KXLIKUDCOUNT-26OCT27": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 506
+"fetched": "2026-10-30",
+"final": true,
+"rows": 522
 },
 "KXLIKUDPRIMARY-26AUG17": {
 "fetched": "2026-10-27",
@@ -16869,6 +16874,11 @@
 "final": true,
 "rows": 4
 },
+"KXNYSD38-26": {
+"fetched": "2026-10-30",
+"final": false,
+"rows": 2
+},
 "KXNYTTRUMPAPPROVAL-26DEC31": {
 "fetched": "2026-10-28",
 "final": true,
@@ -18410,9 +18420,9 @@
 "rows": 77
 },
 "KXRAAMCOUNT-26OCT27": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 24
+"fetched": "2026-10-30",
+"final": true,
+"rows": 36
 },
 "KXRAMANPRATTDIFF-26JUN05": {
 "fetched": "2026-10-27",
@@ -19445,9 +19455,9 @@
 "rows": 94
 },
 "KXSHASCOUNT-26OCT27": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 97
+"fetched": "2026-10-30",
+"final": true,
+"rows": 111
 },
 "KXSHERRILLCOUNTIES-25": {
 "fetched": "2026-10-27",
@@ -20445,9 +20455,9 @@
 "rows": 42
 },
 "KXTOGETHERCOUNT-26OCT27": {
-"fetched": "2026-10-28",
-"final": false,
-"rows": 303
+"fetched": "2026-10-30",
+"final": true,
+"rows": 311
 },
 "KXTORONTOMAYOR-26OCT26": {
 "fetched": "2026-10-28",
@@ -28205,9 +28215,9 @@
 "rows": 48
 },
 "KXYASHARCOUNT-26OCT27": {
-"fetched": "2026-10-27",
-"final": false,
-"rows": 401
+"fetched": "2026-10-30",
+"final": true,
+"rows": 414
 },
 "KXYESILGOZOUT-25OCT29": {
 "fetched": "2026-10-28",
