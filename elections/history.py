@@ -10,16 +10,16 @@ writes one file per event (race), with one row per market per day:
       event_id, market_id, outcome, date, price
       (Polymarket CLOB daily price of the market's first outcome, i.e. "Yes" for binary markets)
 
-Progress is kept in history/<source>/manifest.json. Each event is fetched once (open events up to that day;
-the daily snapshots carry them forward) and once more after all its markets resolve, then never again.
-Events never fetched go first, biggest volume first. Each run stops after a time budget and the next run
-picks up where it left off, so the first full backfill spreads over several runs.
+Progress is kept in history/<source>/manifest.json. Each event is fetched when first seen, again every
+refresh_days while it is open (so open races' files stay current), and once more after all its markets
+resolve, then never again. Order: never fetched (biggest volume first), then newly resolved, then stale open
+events (oldest fetch first). Each run stops after a time budget and the next run picks up where it left off.
 """
 
 import json
 import time
 from collections import defaultdict
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 from . import kalshi as k
@@ -128,11 +128,14 @@ SOURCES = {
 }
 
 
-def backfill(minutes: float) -> dict[str, int]:
+def backfill(minutes: float, refresh_days: int = 7, sources: list[str] | None = None) -> dict[str, int]:
     start = time.monotonic()
     today, now = date.today().isoformat(), int(time.time())
+    stale = (date.today() - timedelta(days=refresh_days)).isoformat()   # open events fetched before this refresh
     done = {}
     for source, (key, rel, resolved, fetch, fields) in SOURCES.items():
+        if sources and source not in sources:
+            continue
         # Kalshi may use 2/3 of the budget, so Polymarket still gets a turn while Kalshi's backlog is long.
         deadline = start + minutes * 60 * (2 / 3 if source == "kalshi" else 1)
         out_dir = ROOT / "history" / source
@@ -141,9 +144,18 @@ def backfill(minutes: float) -> dict[str, int]:
         events = defaultdict(list)
         for m in load_markets(ROOT / "data", source, ID[source]).values():
             events[m[key]].append(m)
-        todo = [e for e, ms in events.items()
-                if e not in manifest or (not manifest[e]["final"] and all(resolved(m) for m in ms))]
-        todo.sort(key=lambda e: (e in manifest, -sum(num(m["volume"]) for m in events[e])))
+        def tier(e):
+            if e not in manifest:
+                return 0
+            if manifest[e]["final"]:
+                return None
+            if all(resolved(m) for m in events[e]):
+                return 1
+            return 2 if manifest[e]["fetched"] < stale else None
+
+        todo = [e for e in events if tier(e) is not None]
+        todo.sort(key=lambda e: (tier(e), manifest.get(e, {}).get("fetched", ""),
+                                 -sum(num(m["volume"]) for m in events[e])))
         print(f"{source}: {len(events)} events, {len(todo)} to fetch")
         done[source] = 0
         for e in todo:

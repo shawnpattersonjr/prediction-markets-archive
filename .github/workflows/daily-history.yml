@@ -8,6 +8,12 @@ on:
       minutes:
         description: "Time budget in minutes"
         default: "150"
+      refresh_days:
+        description: "Refetch open races last fetched this many days ago or more (0 = all not fetched today)"
+        default: "7"
+      sources:
+        description: "Limit to these sources, comma-separated (kalshi,polymarket); empty = both"
+        default: ""
 
 permissions:
   contents: write
@@ -29,6 +35,8 @@ jobs:
       - name: Backfill price history
         env:
           HISTORY_MINUTES: ${{ inputs.minutes || '150' }}
+          HISTORY_REFRESH_DAYS: ${{ inputs.refresh_days || '7' }}
+          HISTORY_SOURCES: ${{ inputs.sources }}
         run: python run_history.py
       - name: Commit history
         if: always()   # keep partial progress

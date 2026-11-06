@@ -37,8 +37,9 @@ Details columns add titles, the series/event they belong to, the resolution rule
 
 Workflow: `.github/workflows/daily-history.yml` (14:37 UTC daily). Each run has a 150-minute budget (set
 another from the Actions tab) and records progress in `history/<source>/manifest.json`, so the first full
-backfill spreads over several days, biggest races first. Each race is fetched once (an open race up to that
-day; the daily snapshots carry it forward) and once more after it resolves, then never again.
+backfill spreads over several days, biggest races first. Each race is fetched when first seen, refetched
+weekly while it is open (so its file stays current), and once more after it resolves, then never again.
+A manual run can refetch open races sooner (`refresh_days`, 0 = all) or run one source only (`sources`).
 
 ## Coverage
 
