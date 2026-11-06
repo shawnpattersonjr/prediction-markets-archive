@@ -45,17 +45,22 @@ def as_list(v) -> list:
 
 
 def events(tag: str) -> list[dict]:
+    """Every event with this tag, open and closed. Uses the keyset endpoint: plain /events refuses offsets
+    past about 2,000, which the closed elections passed after the Nov 2026 midterms."""
     out = {}
     for closed in ("false", "true"):
-        offset = 0
+        cursor = None
         while True:
-            page = get_json(f"{API}/events", {"tag_slug": tag, "closed": closed, "limit": PAGE,
-                                              "offset": offset, "order": "id", "ascending": "true"})
-            new = [e for e in page if str(e.get("id")) not in out]
-            if not new:   # empty page, or the server stopped advancing
+            params = {"tag_slug": tag, "closed": closed, "limit": PAGE}
+            if cursor:
+                params["after_cursor"] = cursor
+            body = get_json(f"{API}/events/keyset", params)
+            page = body.get("events") or []
+            out.update((str(e["id"]), e) for e in page)
+            nxt = body.get("next_cursor")
+            if not page or not nxt or nxt == cursor:
                 break
-            out.update((str(e["id"]), e) for e in new)
-            offset += len(page)
+            cursor = nxt
             time.sleep(PAUSE)
     return list(out.values())
 
