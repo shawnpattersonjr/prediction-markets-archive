@@ -22,32 +22,5 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - name: Snapshot markets
-        id: snap
-        run: python run_snapshot.py
-        continue-on-error: true   # still commit whatever sources succeeded
-      - name: Commit new snapshot
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898732+github-actions[bot]@users.noreply.github.com"
-          git add data
-          git diff --cached --quiet || git commit -m "Election markets $(date -u +%F)"
-          git pull --rebase -q && git push
-      - name: Retry failed sources after 1 hour
-        id: retry
-        if: steps.snap.outcome == 'failure'
-        run: |
-          sleep 3600
-          python run_snapshot.py   # sources saved in the first pass are skipped
-        continue-on-error: true
-      - name: Commit retried sources
-        if: steps.snap.outcome == 'failure'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898732+github-actions[bot]@users.noreply.github.com"
-          git add data
-          git diff --cached --quiet || git commit -m "Election markets $(date -u +%F)"
-          git pull --rebase -q && git push
-      - name: Fail the run if any source still failed
-        if: steps.snap.outcome == 'failure' && steps.retry.outcome == 'failure'
-        run: exit 1
+      - name: Probe intraday granularity (temporary)
+        run: python probe_intraday.py
