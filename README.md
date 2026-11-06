@@ -41,6 +41,23 @@ backfill spreads over several days, biggest races first. Each race is fetched wh
 weekly while it is open (so its file stays current), and once more after it resolves, then never again.
 A manual run can refetch open races sooner (`refresh_days`, 0 = all) or run one source only (`sources`).
 
+## 2026 midterms, minute by minute
+
+The GitHub release `intraday-2026-midterms` holds minute-level prices from election night (Nov 3, 2026) on,
+one set of files per UTC day. They are too big for git, so they live in the release; delete the release to
+clear them. `.github/workflows/intraday.yml` adds each finished day at 06:23 UTC (code: `elections/intraday.py`).
+
+- `intraday-<day>-kalshi.csv.gz`: Kalshi 1-minute candles (open/high/low/close/mean price, closing bid and ask,
+  volume, open interest).
+- `intraday-<day>-kalshi-trades.csv.gz`: every Kalshi trade in the headline races (House and Senate control,
+  Senate and governor winners), timestamped to the microsecond.
+- `intraday-<day>-polymarket.csv.gz`: Polymarket's price of each market's first outcome, about once a minute.
+
+Nov 3-4 cover every 2026 election market that resolved, plus the winner markets still open. From Nov 5 on, only
+the winner/control markets still open are kept, each until it closes. Only races that could have been called
+on Nov 3 count: runoffs, swearing-in dates, certified margins and turnout, and foreign elections are left out.
+Disable the workflow once every 2026 race has closed.
+
 ## Coverage
 
 To change coverage, edit `CATEGORIES` and `is_election()` in `elections/kalshi.py` or `TAG_SLUGS` in

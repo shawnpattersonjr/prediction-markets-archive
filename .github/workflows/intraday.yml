@@ -1,0 +1,33 @@
+name: Midterm minute-by-minute prices
+
+on:
+  schedule:
+    - cron: "23 6 * * *"   # 06:23 UTC daily: collects the UTC day just finished
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: "Time budget in minutes"
+        default: "300"
+
+permissions:
+  contents: write   # to create the release and upload its files
+
+concurrency:
+  group: intraday
+  cancel-in-progress: false
+
+jobs:
+  intraday:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Collect and upload minute data
+        env:
+          GH_TOKEN: ${{ github.token }}
+          INTRADAY_MINUTES: ${{ inputs.minutes || '300' }}
+        run: python run_intraday.py

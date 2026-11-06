@@ -58,9 +58,10 @@ def num(v) -> float:
 
 # --- Kalshi -------------------------------------------------------------------------------------------------
 
-def kalshi_candles(series: str, ticker: str, start: int, end: int) -> list[dict]:
-    """Daily candles. Kalshi moves long-settled markets to a separate historical endpoint, so fall back to it."""
-    params = {"start_ts": start, "end_ts": end, "period_interval": 1440}
+def kalshi_candles(series: str, ticker: str, start: int, end: int, period: int = 1440) -> list[dict]:
+    """Candles of `period` minutes (1, 60 or 1440; daily by default). Kalshi moves long-settled markets to a
+    separate historical endpoint, so fall back to it."""
+    params = {"start_ts": start, "end_ts": end, "period_interval": period}
     for path in (f"/series/{series}/markets/{ticker}/candlesticks", f"/historical/markets/{ticker}/candlesticks"):
         try:
             candles = get_json(f"{k.API}{path}", params).get("candlesticks") or []
