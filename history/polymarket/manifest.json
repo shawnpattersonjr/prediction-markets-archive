@@ -1095,9 +1095,9 @@
 "rows": 264
 },
 "1071160": {
-"fetched": "2026-11-07",
-"final": false,
-"rows": 349
+"fetched": "2026-11-12",
+"final": true,
+"rows": 394
 },
 "107420": {
 "fetched": "2026-10-27",
@@ -3559,6 +3559,191 @@
 "final": false,
 "rows": 2
 },
+"1367015": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367024": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367025": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367026": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367027": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367028": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367029": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367030": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367031": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367032": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367033": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367034": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367035": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367036": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367037": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367038": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367039": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367040": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367041": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367042": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367043": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367044": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367045": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367046": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367055": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367056": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367057": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367058": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367059": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367060": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367061": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367062": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
+"1367484": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 8
+},
+"1367485": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 3
+},
+"1373429": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 9
+},
+"1373445": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 5
+},
+"1373726": {
+"fetched": "2026-11-12",
+"final": false,
+"rows": 2
+},
 "139268": {
 "fetched": "2026-10-28",
 "final": true,
@@ -4915,9 +5100,9 @@
 "rows": 494
 },
 "191531": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 493
+"fetched": "2026-11-12",
+"final": true,
+"rows": 505
 },
 "191532": {
 "fetched": "2026-11-06",
@@ -9075,9 +9260,9 @@
 "rows": 725
 },
 "57678": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 718
+"fetched": "2026-11-12",
+"final": true,
+"rows": 730
 },
 "57679": {
 "fetched": "2026-11-06",
@@ -9630,9 +9815,9 @@
 "rows": 126
 },
 "656689": {
-"fetched": "2026-11-08",
-"final": false,
-"rows": 122
+"fetched": "2026-11-12",
+"final": true,
+"rows": 126
 },
 "656690": {
 "fetched": "2026-11-06",
@@ -10975,9 +11160,9 @@
 "rows": 878
 },
 "797307": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 869
+"fetched": "2026-11-12",
+"final": true,
+"rows": 929
 },
 "797309": {
 "fetched": "2026-11-07",
@@ -11325,9 +11510,9 @@
 "rows": 872
 },
 "803039": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 779
+"fetched": "2026-11-12",
+"final": true,
+"rows": 833
 },
 "803056": {
 "fetched": "2026-11-06",
@@ -11365,9 +11550,9 @@
 "rows": 868
 },
 "803155": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 688
+"fetched": "2026-11-12",
+"final": true,
+"rows": 736
 },
 "803156": {
 "fetched": "2026-11-10",
@@ -12475,9 +12660,9 @@
 "rows": 837
 },
 "829712": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 729
+"fetched": "2026-11-12",
+"final": true,
+"rows": 774
 },
 "829713": {
 "fetched": "2026-11-06",
@@ -12560,9 +12745,9 @@
 "rows": 569
 },
 "833406": {
-"fetched": "2026-11-07",
-"final": false,
-"rows": 324
+"fetched": "2026-11-12",
+"final": true,
+"rows": 333
 },
 "833407": {
 "fetched": "2026-11-06",
@@ -13035,9 +13220,9 @@
 "rows": 637
 },
 "834469": {
-"fetched": "2026-11-07",
-"final": false,
-"rows": 650
+"fetched": "2026-11-12",
+"final": true,
+"rows": 689
 },
 "834470": {
 "fetched": "2026-11-06",
@@ -13045,14 +13230,14 @@
 "rows": 818
 },
 "834471": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 800
+"fetched": "2026-11-12",
+"final": true,
+"rows": 859
 },
 "834472": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 816
+"fetched": "2026-11-12",
+"final": true,
+"rows": 875
 },
 "834473": {
 "fetched": "2026-11-06",
@@ -13060,14 +13245,14 @@
 "rows": 648
 },
 "834474": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 802
+"fetched": "2026-11-12",
+"final": true,
+"rows": 861
 },
 "834475": {
-"fetched": "2026-11-07",
-"final": false,
-"rows": 651
+"fetched": "2026-11-12",
+"final": true,
+"rows": 691
 },
 "834476": {
 "fetched": "2026-11-07",
@@ -13195,9 +13380,9 @@
 "rows": 853
 },
 "834517": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 652
+"fetched": "2026-11-12",
+"final": true,
+"rows": 700
 },
 "834518": {
 "fetched": "2026-11-11",
@@ -13295,9 +13480,9 @@
 "rows": 793
 },
 "834607": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 817
+"fetched": "2026-11-12",
+"final": true,
+"rows": 877
 },
 "834610": {
 "fetched": "2026-11-06",
@@ -13610,9 +13795,9 @@
 "rows": 224
 },
 "839288": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 1527
+"fetched": "2026-11-12",
+"final": true,
+"rows": 1641
 },
 "839289": {
 "fetched": "2026-11-09",
@@ -14675,9 +14860,9 @@
 "rows": 674
 },
 "870907": {
-"fetched": "2026-11-07",
-"final": false,
-"rows": 524
+"fetched": "2026-11-12",
+"final": true,
+"rows": 559
 },
 "870908": {
 "fetched": "2026-11-06",
@@ -14730,9 +14915,9 @@
 "rows": 595
 },
 "870918": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 509
+"fetched": "2026-11-12",
+"final": true,
+"rows": 550
 },
 "870919": {
 "fetched": "2026-11-06",
