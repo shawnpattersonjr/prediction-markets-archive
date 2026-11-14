@@ -2530,9 +2530,9 @@
 "rows": 365
 },
 "KXCAELECTION-2604": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 207
+"fetched": "2026-11-14",
+"final": true,
+"rows": 221
 },
 "KXCAELECTION-2607": {
 "fetched": "2026-11-11",
@@ -6040,9 +6040,9 @@
 "rows": 3
 },
 "KXGOPSOLIDD-26NOV03": {
-"fetched": "2026-11-10",
-"final": false,
-"rows": 5
+"fetched": "2026-11-14",
+"final": true,
+"rows": 8
 },
 "KXGOPSTATESUPERMAJ-26NOV03": {
 "fetched": "2026-11-06",
@@ -6055,9 +6055,9 @@
 "rows": 15
 },
 "KXGOPTRIFECTA-26NOV03": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 509
+"fetched": "2026-11-14",
+"final": true,
+"rows": 539
 },
 "KXGOPWHIP120-26NOV30": {
 "fetched": "2026-11-10",
@@ -6085,9 +6085,9 @@
 "rows": 70
 },
 "KXGOVAK-26": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 4804
+"fetched": "2026-11-14",
+"final": true,
+"rows": 4912
 },
 "KXGOVAKPRIMARY-26": {
 "fetched": "2026-10-27",
@@ -6445,9 +6445,9 @@
 "rows": 2017
 },
 "KXGOVPARTYAK-26": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 546
+"fetched": "2026-11-14",
+"final": true,
+"rows": 562
 },
 "KXGOVRACE-NH-28": {
 "fetched": "2026-11-13",
@@ -6710,9 +6710,9 @@
 "rows": 131
 },
 "KXHARRISGOPDISTRICTS-26NOV03": {
-"fetched": "2026-11-07",
-"final": false,
-"rows": 46
+"fetched": "2026-11-14",
+"final": true,
+"rows": 72
 },
 "KXHARRISSTATEGOP-26NOV03": {
 "fetched": "2026-11-04",
@@ -11105,9 +11105,9 @@
 "rows": 112
 },
 "KXIAAUDITOR-26": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 111
+"fetched": "2026-11-14",
+"final": true,
+"rows": 119
 },
 "KXIAPRIMARY-01D26": {
 "fetched": "2026-10-27",
@@ -13085,9 +13085,9 @@
 "rows": 646
 },
 "KXLOSEREELECTIONDHOUSE-2026": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 277
+"fetched": "2026-11-14",
+"final": true,
+"rows": 317
 },
 "KXLOSEREELECTIONDSEN-2026": {
 "fetched": "2026-11-04",
@@ -14365,9 +14365,9 @@
 "rows": 552
 },
 "KXMIDTERMMOV-CO04R": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 738
+"fetched": "2026-11-14",
+"final": true,
+"rows": 782
 },
 "KXMIDTERMMOV-CO05D": {
 "fetched": "2026-11-06",
@@ -21925,9 +21925,9 @@
 "rows": 1471
 },
 "KXPRESNOMD-28": {
-"fetched": "2026-11-06",
+"fetched": "2026-11-14",
 "final": false,
-"rows": 23506
+"rows": 23980
 },
 "KXPRESNOMG-28": {
 "fetched": "2026-11-06",
@@ -21965,9 +21965,9 @@
 "rows": 219
 },
 "KXPRESPERSON-28": {
-"fetched": "2026-11-06",
+"fetched": "2026-11-14",
 "final": false,
-"rows": 13254
+"rows": 13667
 },
 "KXPRESPOLAND": {
 "fetched": "2026-10-27",
@@ -23015,9 +23015,9 @@
 "rows": 69
 },
 "KXRENOMAYOR-26": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 225
+"fetched": "2026-11-14",
+"final": true,
+"rows": 236
 },
 "KXREPRODUCTIVEMEASURES-26": {
 "fetched": "2026-11-04",
@@ -23045,9 +23045,9 @@
 "rows": 59
 },
 "KXRGOVCOUNT-26JUL08": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 855
+"fetched": "2026-11-14",
+"final": true,
+"rows": 901
 },
 "KXRHIPAL-26MAR22": {
 "fetched": "2026-10-27",
@@ -24985,9 +24985,9 @@
 "rows": 161
 },
 "KXSTATEBALLOTMEASURE-AK": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 166
+"fetched": "2026-11-14",
+"final": true,
+"rows": 174
 },
 "KXSTATEBALLOTMEASURE-AL": {
 "fetched": "2026-11-06",
@@ -53330,9 +53330,9 @@
 "rows": 153
 },
 "KXTALLAHASSEEMAYOR-26": {
-"fetched": "2026-11-06",
-"final": false,
-"rows": 558
+"fetched": "2026-11-14",
+"final": true,
+"rows": 574
 },
 "KXTAMPAMAYOR-27": {
 "fetched": "2026-11-09",
