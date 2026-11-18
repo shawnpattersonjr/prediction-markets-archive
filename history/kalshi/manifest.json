@@ -980,9 +980,9 @@
 "rows": 50
 },
 "KXADSPEND-26DEC31": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 68
+"rows": 110
 },
 "KXAFDPERCENT-25": {
 "fetched": "2026-10-27",
@@ -1000,29 +1000,29 @@
 "rows": 4897
 },
 "KXAGCOMMRACE-KY-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAGCOMMRACE-LA-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAGCOMMRACE-MS-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAGCOMMRACE-NC-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAGCOMMRACE-WV-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXAGNOMAZR-26": {
 "fetched": "2026-10-27",
@@ -1085,69 +1085,69 @@
 "rows": 413
 },
 "KXAGRACE-IN-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAGRACE-KY-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAGRACE-LA-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAGRACE-MO-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAGRACE-MS-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAGRACE-MT-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAGRACE-NC-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAGRACE-OR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAGRACE-PA-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAGRACE-UT-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXAGRACE-VT-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXAGRACE-WA-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXAGRACE-WV-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXAGUASCALIENTESGOV-27JUN06": {
 "fetched": "2026-11-14",
@@ -1190,9 +1190,9 @@
 "rows": 613
 },
 "KXAKSENATE-26NOV03": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 1218
+"fetched": "2026-11-18",
+"final": true,
+"rows": 1239
 },
 "KXAKSENATEROUND-26": {
 "fetched": "2026-11-14",
@@ -1200,9 +1200,9 @@
 "rows": 398
 },
 "KXAKSENGOVCOMBO-26NOV": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 467
+"fetched": "2026-11-18",
+"final": true,
+"rows": 478
 },
 "KXAKSTATELEG-28HOUSE": {
 "fetched": "2026-11-13",
@@ -1340,9 +1340,9 @@
 "rows": 629
 },
 "KXAPCALLAKSEN-26NOV04": {
-"fetched": "2026-11-13",
-"final": false,
-"rows": 57
+"fetched": "2026-11-18",
+"final": true,
+"rows": 82
 },
 "KXAPCALLCAGOV-26JUN02": {
 "fetched": "2026-10-27",
@@ -1675,54 +1675,54 @@
 "rows": 760
 },
 "KXAUDITORRACE-KY-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAUDITORRACE-MS-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAUDITORRACE-MT-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAUDITORRACE-NC-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAUDITORRACE-ND-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXAUDITORRACE-PA-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAUDITORRACE-UT-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAUDITORRACE-VT-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXAUDITORRACE-WA-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXAUDITORRACE-WV-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXAUGRECESSCAB-26AUG08": {
 "fetched": "2026-10-27",
@@ -1930,9 +1930,9 @@
 "rows": 202
 },
 "KXBAYAREATRANSIT-26NOV03": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 39
+"fetched": "2026-11-18",
+"final": true,
+"rows": 43
 },
 "KXBBGMAYOR-25": {
 "fetched": "2026-10-28",
@@ -1983,6 +1983,11 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 148
+},
+"KXBCSGOV-27JUN06": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 4
 },
 "KXBEDFORDMAYOR-27MAY06": {
 "fetched": "2026-11-15",
@@ -2115,9 +2120,9 @@
 "rows": 149
 },
 "KXBLUESTRSEN-27JAN03": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 701
+"fetched": "2026-11-18",
+"final": true,
+"rows": 740
 },
 "KXBLUETRICKLECOMBO-27FEB": {
 "fetched": "2026-11-14",
@@ -2130,9 +2135,9 @@
 "rows": 334
 },
 "KXBLUEWAVE08COMBO-27FEB": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 16
 },
 "KXBLUEWAVECOMBO-27FEB": {
 "fetched": "2026-11-14",
@@ -2265,9 +2270,9 @@
 "rows": 36
 },
 "KXBRDEFMIN-26OCT25": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 57
+"rows": 121
 },
 "KXBRDEP-26OCT04": {
 "fetched": "2026-10-27",
@@ -2280,14 +2285,14 @@
 "rows": 121
 },
 "KXBRFINMIN-26OCT25": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 90
+"rows": 170
 },
 "KXBRFORMIN-26OCT25": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 63
+"rows": 119
 },
 "KXBRGOVMOSTSEATS-26OCT04": {
 "fetched": "2026-10-27",
@@ -3539,6 +3544,11 @@
 "final": true,
 "rows": 1781
 },
+"KXCOLIMAGOV-27JUN06": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 3
+},
 "KXCOLLINCOUNTYJUDGE-26": {
 "fetched": "2026-11-16",
 "final": true,
@@ -3995,9 +4005,9 @@
 "rows": 552
 },
 "KXDEMSTATESWEEP-28DEC05": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 12
+"rows": 108
 },
 "KXDEMSWEEP-25NOV04": {
 "fetched": "2026-10-27",
@@ -4025,9 +4035,9 @@
 "rows": 32
 },
 "KXDEMVICECHAIR120-26NOV19": {
-"fetched": "2026-11-15",
-"final": false,
-"rows": 16
+"fetched": "2026-11-18",
+"final": true,
+"rows": 22
 },
 "KXDEMWNCVOTE-26NOV06": {
 "fetched": "2026-11-07",
@@ -4060,9 +4070,9 @@
 "rows": 215
 },
 "KXDENTONCOUNTYJUDGE-26": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 88
+"fetched": "2026-11-18",
+"final": true,
+"rows": 95
 },
 "KXDENVERMAYOR-27": {
 "fetched": "2026-11-17",
@@ -4470,9 +4480,9 @@
 "rows": 1090
 },
 "KXDSENATEWON-26NOV03": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 584
+"fetched": "2026-11-18",
+"final": true,
+"rows": 593
 },
 "KXDTICKET-28NOV07": {
 "fetched": "2026-11-14",
@@ -4755,9 +4765,9 @@
 "rows": 1132
 },
 "KXELPASOCOUNTYJUDGE-26": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 79
+"fetched": "2026-11-18",
+"final": true,
+"rows": 81
 },
 "KXELSAYEDOUTPERFORMRCP-26NOV03": {
 "fetched": "2026-11-14",
@@ -5005,14 +5015,14 @@
 "rows": 12
 },
 "KXFISHBACKRUN-AR": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 121
+"fetched": "2026-11-18",
+"final": true,
+"rows": 129
 },
 "KXFIVESTATESEN-26NOV03": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 1066
+"fetched": "2026-11-18",
+"final": true,
+"rows": 1073
 },
 "KXFL19R-26": {
 "fetched": "2026-10-27",
@@ -5335,9 +5345,9 @@
 "rows": 76
 },
 "KXFOURSTATESEN-26NOV03": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 1334
+"fetched": "2026-11-18",
+"final": true,
+"rows": 1340
 },
 "KXFRAUD2020-27": {
 "fetched": "2026-11-14",
@@ -6080,9 +6090,9 @@
 "rows": 492
 },
 "KXGOPSTATESWEEP-28DEC05": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 15
+"rows": 135
 },
 "KXGOPTRIFECTA-26NOV03": {
 "fetched": "2026-11-14",
@@ -6330,14 +6340,14 @@
 "rows": 56
 },
 "KXGOVNOM-DER-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 3
+"rows": 27
 },
 "KXGOVNOM-IND-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXGOVNOM-INR-28": {
 "fetched": "2026-11-17",
@@ -6345,9 +6355,9 @@
 "rows": 72
 },
 "KXGOVNOM-MOD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 5
+"rows": 45
 },
 "KXGOVNOM-MOR-28": {
 "fetched": "2026-11-17",
@@ -6375,64 +6385,64 @@
 "rows": 48
 },
 "KXGOVNOM-NCD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXGOVNOM-NCR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXGOVNOM-NDD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 4
+"rows": 36
 },
 "KXGOVNOM-NDR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 8
+"rows": 72
 },
 "KXGOVNOM-NHD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXGOVNOM-NHR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 8
+"rows": 72
 },
 "KXGOVNOM-UTD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 4
+"rows": 36
 },
 "KXGOVNOM-UTR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 11
+"rows": 99
 },
 "KXGOVNOM-VTD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXGOVNOM-VTR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXGOVNOM-WVD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXGOVNOM-WVR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 9
+"rows": 81
 },
 "KXGOVNVNOMD-26": {
 "fetched": "2026-10-27",
@@ -6490,9 +6500,9 @@
 "rows": 20
 },
 "KXGOVRACE-TX-30": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXGOVRACE-VA-29": {
 "fetched": "2026-11-15",
@@ -6525,14 +6535,14 @@
 "rows": 1438
 },
 "KXGOVSENDIFF-27FEB01": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 749
+"fetched": "2026-11-18",
+"final": true,
+"rows": 764
 },
 "KXGOVSENDIFF-27FEB012": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 768
+"fetched": "2026-11-18",
+"final": true,
+"rows": 785
 },
 "KXGOVTNNOMD-26": {
 "fetched": "2026-10-27",
@@ -6665,9 +6675,9 @@
 "rows": 76
 },
 "KXGUAMGOV-26": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 280
+"fetched": "2026-11-18",
+"final": true,
+"rows": 287
 },
 "KXGUATEMALACITYMAYOR-27JUN27": {
 "fetched": "2026-11-15",
@@ -6688,6 +6698,11 @@
 "fetched": "2026-11-14",
 "final": false,
 "rows": 175
+},
+"KXGUERREROGOV-27JUN06": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 3
 },
 "KXGUINEAREF-25": {
 "fetched": "2026-10-28",
@@ -11460,34 +11475,34 @@
 "rows": 161
 },
 "KXINSCOMMRACE-DE-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXINSCOMMRACE-LA-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXINSCOMMRACE-MS-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXINSCOMMRACE-NC-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXINSCOMMRACE-ND-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXINSCOMMRACE-WA-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXINSCOMOKNOMR-26": {
 "fetched": "2026-10-28",
@@ -11540,9 +11555,9 @@
 "rows": 178
 },
 "KXISENATEWON-26NOV03": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 130
+"fetched": "2026-11-18",
+"final": true,
+"rows": 139
 },
 "KXISLEMINISTER-26SEP24": {
 "fetched": "2026-10-27",
@@ -11740,14 +11755,14 @@
 "rows": 25
 },
 "KXJEFFRIESCAUCUSAGAINST-26DEC01": {
-"fetched": "2026-11-17",
-"final": false,
-"rows": 8
+"fetched": "2026-11-18",
+"final": true,
+"rows": 16
 },
 "KXJEFFRIESCAUCUSVOTES-26DEC01": {
-"fetched": "2026-11-17",
-"final": false,
-"rows": 8
+"fetched": "2026-11-18",
+"final": true,
+"rows": 16
 },
 "KXJEFFRIESDEFECT-27FEB01": {
 "fetched": "2026-11-15",
@@ -12730,9 +12745,9 @@
 "rows": 181
 },
 "KXKYLAMSGOVCOMBO-27NOV30": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 78
+"rows": 141
 },
 "KXKYPRIMARY-01R26": {
 "fetched": "2026-10-27",
@@ -12980,9 +12995,9 @@
 "rows": 1689
 },
 "KXLATVIAPM-26OCT03": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 516
+"fetched": "2026-11-18",
+"final": true,
+"rows": 543
 },
 "KXLAUNCESTONMAYOR-26OCT27": {
 "fetched": "2026-10-28",
@@ -12990,9 +13005,9 @@
 "rows": 200
 },
 "KXLAURIERBY-26DEC07": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 29
+"rows": 56
 },
 "KXLDPSEATS-26FEB08": {
 "fetched": "2026-10-27",
@@ -13010,9 +13025,9 @@
 "rows": 1774
 },
 "KXLEADERSALL-27JAN15": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 10
 },
 "KXLEADERSOUT-27JAN01": {
 "fetched": "2026-11-14",
@@ -13020,9 +13035,9 @@
 "rows": 12106
 },
 "KXLEAGUECITYFLOCK-26NOV03": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 78
+"fetched": "2026-11-18",
+"final": true,
+"rows": 81
 },
 "KXLEAVEKARKI-26JAN01": {
 "fetched": "2026-10-28",
@@ -13215,39 +13230,39 @@
 "rows": 853
 },
 "KXLTGOVRACE-DE-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXLTGOVRACE-LA-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXLTGOVRACE-MO-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXLTGOVRACE-MS-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXLTGOVRACE-NC-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXLTGOVRACE-VT-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXLTGOVRACE-WA-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXLTGOVRI-26": {
 "fetched": "2026-11-04",
@@ -13585,9 +13600,9 @@
 "rows": 2562
 },
 "KXMAYORLA-30": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 8
+"rows": 72
 },
 "KXMAYORMIA-25": {
 "fetched": "2026-10-27",
@@ -13839,10 +13854,30 @@
 "final": true,
 "rows": 767
 },
+"KXMEXCOALREG-27": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 1
+},
+"KXMEXCOALSEATS-27JUN06": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 7
+},
+"KXMEXGOVCOUNT-27JUN06": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 8
+},
 "KXMEXICODEPUTIES-27": {
 "fetched": "2026-11-14",
 "final": false,
 "rows": 2031
+},
+"KXMEXICODEPUTIES2ND-27-2": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 6
 },
 "KXMEXICOPRES-30JUN02": {
 "fetched": "2026-11-15",
@@ -13853,6 +13888,11 @@
 "fetched": "2026-11-15",
 "final": false,
 "rows": 66
+},
+"KXMEXTURNOUT-27JUN06": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 8
 },
 "KXMI11D-26": {
 "fetched": "2026-10-27",
@@ -13895,14 +13935,14 @@
 "rows": 303
 },
 "KXMIDTERMMOV-AKGOVR": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 186
+"fetched": "2026-11-18",
+"final": true,
+"rows": 196
 },
 "KXMIDTERMMOV-AKSENDSUL": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 118
+"fetched": "2026-11-18",
+"final": true,
+"rows": 127
 },
 "KXMIDTERMMOV-AKSENMPEL": {
 "fetched": "2026-11-14",
@@ -14085,9 +14125,9 @@
 "rows": 228
 },
 "KXMIDTERMMOV-CA04MTHO": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 397
+"fetched": "2026-11-18",
+"final": true,
+"rows": 419
 },
 "KXMIDTERMMOV-CA05R": {
 "fetched": "2026-11-14",
@@ -14100,9 +14140,9 @@
 "rows": 367
 },
 "KXMIDTERMMOV-CA07MVAN": {
-"fetched": "2026-11-15",
-"final": false,
-"rows": 318
+"fetched": "2026-11-18",
+"final": true,
+"rows": 329
 },
 "KXMIDTERMMOV-CA08D": {
 "fetched": "2026-11-14",
@@ -14150,9 +14190,9 @@
 "rows": 406
 },
 "KXMIDTERMMOV-CA14MHER": {
-"fetched": "2026-11-15",
-"final": false,
-"rows": 69
+"fetched": "2026-11-18",
+"final": true,
+"rows": 72
 },
 "KXMIDTERMMOV-CA15D": {
 "fetched": "2026-11-15",
@@ -14300,9 +14340,9 @@
 "rows": 388
 },
 "KXMIDTERMMOV-CA40YKIM": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 264
+"fetched": "2026-11-18",
+"final": true,
+"rows": 278
 },
 "KXMIDTERMMOV-CA41D": {
 "fetched": "2026-11-14",
@@ -14560,9 +14600,9 @@
 "rows": 132
 },
 "KXMIDTERMMOV-FL10D": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 926
+"fetched": "2026-11-18",
+"final": true,
+"rows": 945
 },
 "KXMIDTERMMOV-FL11R": {
 "fetched": "2026-11-17",
@@ -14805,19 +14845,19 @@
 "rows": 136
 },
 "KXMIDTERMMOV-HI01D": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 1178
+"fetched": "2026-11-18",
+"final": true,
+"rows": 1202
 },
 "KXMIDTERMMOV-HI02D": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 1162
+"fetched": "2026-11-18",
+"final": true,
+"rows": 1180
 },
 "KXMIDTERMMOV-HIGOVD": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 1216
+"fetched": "2026-11-18",
+"final": true,
+"rows": 1266
 },
 "KXMIDTERMMOV-IA01D": {
 "fetched": "2026-11-14",
@@ -14875,24 +14915,24 @@
 "rows": 1126
 },
 "KXMIDTERMMOV-ID01R": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 1243
+"fetched": "2026-11-18",
+"final": true,
+"rows": 1261
 },
 "KXMIDTERMMOV-ID02R": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 1165
+"fetched": "2026-11-18",
+"final": true,
+"rows": 1183
 },
 "KXMIDTERMMOV-IDGOVR": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 1255
+"fetched": "2026-11-18",
+"final": true,
+"rows": 1277
 },
 "KXMIDTERMMOV-IDSENR": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 1891
+"fetched": "2026-11-18",
+"final": true,
+"rows": 1925
 },
 "KXMIDTERMMOV-IL01D": {
 "fetched": "2026-11-14",
@@ -15275,9 +15315,9 @@
 "rows": 1195
 },
 "KXMIDTERMMOV-ME02D": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 532
+"fetched": "2026-11-18",
+"final": true,
+"rows": 539
 },
 "KXMIDTERMMOV-ME02R": {
 "fetched": "2026-11-14",
@@ -15675,9 +15715,9 @@
 "rows": 281
 },
 "KXMIDTERMMOV-NDALR": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 1149
+"fetched": "2026-11-18",
+"final": true,
+"rows": 1179
 },
 "KXMIDTERMMOV-NE01D": {
 "fetched": "2026-11-05",
@@ -16925,9 +16965,9 @@
 "rows": 560
 },
 "KXMIDTERMMOV-WA05D": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 67
+"fetched": "2026-11-18",
+"final": true,
+"rows": 69
 },
 "KXMIDTERMMOV-WA05R": {
 "fetched": "2026-11-14",
@@ -17585,9 +17625,9 @@
 "rows": 376
 },
 "KXMIDTERMVOTETURN-FL10": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 367
+"fetched": "2026-11-18",
+"final": true,
+"rows": 383
 },
 "KXMIDTERMVOTETURN-FL11": {
 "fetched": "2026-11-17",
@@ -17765,19 +17805,19 @@
 "rows": 626
 },
 "KXMIDTERMVOTETURN-HI01": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 428
+"fetched": "2026-11-18",
+"final": true,
+"rows": 450
 },
 "KXMIDTERMVOTETURN-HI02": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 439
+"fetched": "2026-11-18",
+"final": true,
+"rows": 463
 },
 "KXMIDTERMVOTETURN-HIGOV": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 659
+"fetched": "2026-11-18",
+"final": true,
+"rows": 694
 },
 "KXMIDTERMVOTETURN-IA01": {
 "fetched": "2026-11-14",
@@ -17810,24 +17850,24 @@
 "rows": 604
 },
 "KXMIDTERMVOTETURN-ID01": {
-"fetched": "2026-11-15",
-"final": false,
-"rows": 443
+"fetched": "2026-11-18",
+"final": true,
+"rows": 469
 },
 "KXMIDTERMVOTETURN-ID02": {
-"fetched": "2026-11-15",
-"final": false,
-"rows": 436
+"fetched": "2026-11-18",
+"final": true,
+"rows": 458
 },
 "KXMIDTERMVOTETURN-IDGOV": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 559
+"fetched": "2026-11-18",
+"final": true,
+"rows": 582
 },
 "KXMIDTERMVOTETURN-IDSEN": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 661
+"fetched": "2026-11-18",
+"final": true,
+"rows": 696
 },
 "KXMIDTERMVOTETURN-IL01": {
 "fetched": "2026-11-15",
@@ -18465,9 +18505,9 @@
 "rows": 606
 },
 "KXMIDTERMVOTETURN-NDAL": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 375
+"fetched": "2026-11-18",
+"final": true,
+"rows": 388
 },
 "KXMIDTERMVOTETURN-NE01": {
 "fetched": "2026-11-14",
@@ -19929,6 +19969,11 @@
 "final": false,
 "rows": 3
 },
+"KXMORENASEATS-27JUN06": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 9
+},
 "KXMOSD30-26": {
 "fetched": "2026-11-04",
 "final": true,
@@ -20183,6 +20228,11 @@
 "fetched": "2026-11-14",
 "final": false,
 "rows": 93
+},
+"KXNAYARITGOV-27JUN06": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 3
 },
 "KXNBPCLEAD-26OCT17": {
 "fetched": "2026-10-28",
@@ -20780,9 +20830,9 @@
 "rows": 105
 },
 "KXNVGOVNOTC-26NOV03": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 73
+"rows": 110
 },
 "KXNVLTGOV-26NOV03": {
 "fetched": "2026-11-04",
@@ -21808,6 +21858,16 @@
 "fetched": "2026-11-13",
 "final": false,
 "rows": 18
+},
+"KXPOPVOTEMOVD-28NOV07": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 13
+},
+"KXPOPVOTEMOVR-28NOV07": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 8
 },
 "KXPORIRUABY-26OCT16": {
 "fetched": "2026-10-28",
@@ -22969,6 +23029,11 @@
 "final": true,
 "rows": 431
 },
+"KXQROOGOV-27JUN06": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 3
+},
 "KXQUEBEC-29": {
 "fetched": "2026-11-14",
 "final": false,
@@ -23050,9 +23115,9 @@
 "rows": 185
 },
 "KXREDDESTDSEN-27JAN03": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 648
+"fetched": "2026-11-18",
+"final": true,
+"rows": 702
 },
 "KXREDISTRICTING-28": {
 "fetched": "2026-11-14",
@@ -23480,9 +23545,9 @@
 "rows": 45
 },
 "KXRSENATEWON-26NOV03": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 600
+"fetched": "2026-11-18",
+"final": true,
+"rows": 606
 },
 "KXRSGOV-26OCT04": {
 "fetched": "2026-10-27",
@@ -23620,7 +23685,7 @@
 "rows": 176
 },
 "KXSCHOLTENROGERS-26NOV04": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
 "rows": 3
 },
@@ -24155,314 +24220,314 @@
 "rows": 508
 },
 "KXSENATENOM-ALD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-ALR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-ARD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 5
+"rows": 45
 },
 "KXSENATENOM-ARR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXSENATENOM-AZD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXSENATENOM-AZR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 9
+"rows": 81
 },
 "KXSENATENOM-COD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 8
+"rows": 72
 },
 "KXSENATENOM-COR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 9
+"rows": 80
 },
 "KXSENATENOM-CTD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-CTR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 5
+"rows": 45
 },
 "KXSENATENOM-FLD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-FLR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-GAD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 8
+"rows": 71
 },
 "KXSENATENOM-GAR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 10
+"rows": 90
 },
 "KXSENATENOM-HID-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-HIR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 4
+"rows": 36
 },
 "KXSENATENOM-IDD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXSENATENOM-IDR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 9
+"rows": 81
 },
 "KXSENATENOM-ILD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXSENATENOM-ILR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 8
+"rows": 72
 },
 "KXSENATENOM-IND-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXSENATENOM-INR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 8
+"rows": 72
 },
 "KXSENATENOM-KSD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXSENATENOM-KSR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 10
+"rows": 85
 },
 "KXSENATENOM-KYD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 5
+"rows": 45
 },
 "KXSENATENOM-KYR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 8
+"rows": 72
 },
 "KXSENATENOM-LAD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-LAR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-MDD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-MDR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXSENATENOM-MND-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 10
+"rows": 84
 },
 "KXSENATENOM-MNR-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 9
+"rows": 81
 },
 "KXSENATENOM-MOD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 4
+"rows": 36
 },
 "KXSENATENOM-MOR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 62
 },
 "KXSENATENOM-NCD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 5
+"rows": 50
 },
 "KXSENATENOM-NCR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-NDD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 4
+"rows": 36
 },
 "KXSENATENOM-NDR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-NHD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-NHR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXSENATENOM-NVD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 10
+"rows": 90
 },
 "KXSENATENOM-NVR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 5
+"rows": 45
 },
 "KXSENATENOM-NYR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-OHD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXSENATENOM-OHR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXSENATENOM-OKD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-OKR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 9
+"rows": 80
 },
 "KXSENATENOM-ORD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 9
+"rows": 81
 },
 "KXSENATENOM-ORR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 10
+"rows": 90
 },
 "KXSENATENOM-PAR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 8
+"rows": 70
 },
 "KXSENATENOM-SCD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 5
+"rows": 45
 },
 "KXSENATENOM-SCR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 9
+"rows": 77
 },
 "KXSENATENOM-SDD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 4
+"rows": 36
 },
 "KXSENATENOM-SDR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 60
 },
 "KXSENATENOM-TND-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 6
+"rows": 54
 },
 "KXSENATENOM-TNR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 12
+"rows": 104
 },
 "KXSENATENOM-UTD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 5
+"rows": 45
 },
 "KXSENATENOM-UTR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 9
+"rows": 81
 },
 "KXSENATENOM-VTD-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 8
+"rows": 72
 },
 "KXSENATENOM-VTR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 4
+"rows": 36
 },
 "KXSENATENOM-WID-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 7
+"rows": 63
 },
 "KXSENATENOM-WIR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 9
+"rows": 81
 },
 "KXSENATENYD-28": {
 "fetched": "2026-11-14",
@@ -24570,9 +24635,9 @@
 "rows": 179
 },
 "KXSENATESEATSD-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 114
+"rows": 211
 },
 "KXSENATESEATSD-29": {
 "fetched": "2026-11-16",
@@ -24814,15 +24879,20 @@
 "final": true,
 "rows": 827
 },
+"KXSLPGOV-27JUN06": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 4
+},
 "KXSNAPELECTIONBAHA-26": {
 "fetched": "2026-10-28",
 "final": true,
 "rows": 149
 },
 "KXSNAPELECTIONBEL-27JAN02": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 8
+"rows": 16
 },
 "KXSNAPELECTIONES-25": {
 "fetched": "2026-10-28",
@@ -24874,6 +24944,11 @@
 "final": true,
 "rows": 262
 },
+"KXSNAPSLOVAKIA-28JAN01": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 1
+},
 "KXSNAPUK-27JAN01": {
 "fetched": "2026-11-14",
 "final": false,
@@ -24894,55 +24969,60 @@
 "final": false,
 "rows": 79
 },
-"KXSOSRACE-KY-27": {
-"fetched": "2026-11-10",
+"KXSOSNOM-KYR-27": {
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 4
+},
+"KXSOSRACE-KY-27": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 17
 },
 "KXSOSRACE-LA-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXSOSRACE-MO-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXSOSRACE-MS-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXSOSRACE-MT-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXSOSRACE-NC-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXSOSRACE-OR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXSOSRACE-VT-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXSOSRACE-WA-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXSOSRACE-WV-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXSOUTHSURREY-25": {
 "fetched": "2026-10-27",
@@ -24995,9 +25075,9 @@
 "rows": 3
 },
 "KXSPAINPPCOUNT-26NOV29": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 58
+"rows": 119
 },
 "KXSPAINPSOECOUNT-26NOV29": {
 "fetched": "2026-11-17",
@@ -25010,9 +25090,9 @@
 "rows": 349
 },
 "KXSPAINVOXCOUNT-26NOV29": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 52
+"rows": 117
 },
 "KXSPANBERGEROUTPERFORMRCP-25NOV04": {
 "fetched": "2026-10-27",
@@ -53175,24 +53255,24 @@
 "rows": 30
 },
 "KXSTATEOFFICERACE-MTSUPT-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXSTATEOFFICERACE-NCLABOR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXSTATEOFFICERACE-NCSUPT-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXSTATEOFFICERACE-WALANDS-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXSTATESHIFTRIGHT-24": {
 "fetched": "2026-10-27",
@@ -53205,9 +53285,9 @@
 "rows": 77
 },
 "KXSTEVENSCAUCUS-27JAN": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 9
+"rows": 17
 },
 "KXSTEVENSRESCIND-26NOV04": {
 "fetched": "2026-11-02",
@@ -53395,9 +53475,9 @@
 "rows": 99
 },
 "KXTALARICOCOUNTIES-26NOV03": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 96
+"rows": 143
 },
 "KXTALARICODROPOUT-26": {
 "fetched": "2026-11-03",
@@ -53630,64 +53710,64 @@
 "rows": 309
 },
 "KXTREASRACE-KY-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXTREASRACE-LA-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXTREASRACE-MO-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXTREASRACE-MS-27": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXTREASRACE-NC-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXTREASRACE-ND-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXTREASRACE-OR-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXTREASRACE-PA-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXTREASRACE-UT-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXTREASRACE-VT-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXTREASRACE-WA-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 18
 },
 "KXTREASRACE-WV-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 2
+"rows": 17
 },
 "KXTROIS-25": {
 "fetched": "2026-10-27",
@@ -54450,9 +54530,9 @@
 "rows": 40
 },
 "KXUSSENRUN-28": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 210
+"rows": 421
 },
 "KXUSTURNOUT-MAYORLA26": {
 "fetched": "2026-11-14",
@@ -55180,14 +55260,14 @@
 "rows": 1682
 },
 "KXVOTEFR1-FRPRES27JMEL": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 16
+"rows": 85
 },
 "KXVOTEFR1-FRPRES27MLEP": {
-"fetched": "2026-11-10",
+"fetched": "2026-11-18",
 "final": false,
-"rows": 18
+"rows": 89
 },
 "KXVOTEGENERAL-CAWEALTHTAX26YES": {
 "fetched": "2026-11-14",
@@ -55295,14 +55375,14 @@
 "rows": 514
 },
 "KXVOTEGENERAL-GOVPARTYHI-26GCOR": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 408
+"fetched": "2026-11-18",
+"final": true,
+"rows": 424
 },
 "KXVOTEGENERAL-GOVPARTYHI-26JGRE": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 431
+"fetched": "2026-11-18",
+"final": true,
+"rows": 470
 },
 "KXVOTEGENERAL-GOVPARTYIA-26RSAN": {
 "fetched": "2026-11-14",
@@ -55315,14 +55395,14 @@
 "rows": 546
 },
 "KXVOTEGENERAL-GOVPARTYID-26BLIT": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 627
+"fetched": "2026-11-18",
+"final": true,
+"rows": 651
 },
 "KXVOTEGENERAL-GOVPARTYID-26TPIC": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 494
+"fetched": "2026-11-18",
+"final": true,
+"rows": 511
 },
 "KXVOTEGENERAL-GOVPARTYIL-26DBAI": {
 "fetched": "2026-11-14",
@@ -57080,9 +57160,9 @@
 "rows": 484
 },
 "KXVOTEGENERAL-KXHOUSERACE-FL18-26SFRA": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 461
+"fetched": "2026-11-18",
+"final": true,
+"rows": 475
 },
 "KXVOTEGENERAL-KXHOUSERACE-FL19-26JSCH": {
 "fetched": "2026-11-17",
@@ -57145,9 +57225,9 @@
 "rows": 464
 },
 "KXVOTEGENERAL-KXHOUSERACE-FL26-26MDIA": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 481
+"fetched": "2026-11-18",
+"final": true,
+"rows": 499
 },
 "KXVOTEGENERAL-KXHOUSERACE-FL26-26NLOC": {
 "fetched": "2026-11-17",
@@ -57315,14 +57395,14 @@
 "rows": 463
 },
 "KXVOTEGENERAL-KXHOUSERACE-HI01-26ALAM": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 448
+"fetched": "2026-11-18",
+"final": true,
+"rows": 466
 },
 "KXVOTEGENERAL-KXHOUSERACE-HI01-26ECAS": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 465
+"fetched": "2026-11-18",
+"final": true,
+"rows": 483
 },
 "KXVOTEGENERAL-KXHOUSERACE-HI02-26BAWA": {
 "fetched": "2026-11-14",
@@ -57330,9 +57410,9 @@
 "rows": 487
 },
 "KXVOTEGENERAL-KXHOUSERACE-HI02-26JTOK": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 435
+"fetched": "2026-11-18",
+"final": true,
+"rows": 452
 },
 "KXVOTEGENERAL-KXHOUSERACE-IA02-26JMIT": {
 "fetched": "2026-11-15",
@@ -57355,24 +57435,24 @@
 "rows": 481
 },
 "KXVOTEGENERAL-KXHOUSERACE-ID01-26KPET": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 468
+"fetched": "2026-11-18",
+"final": true,
+"rows": 488
 },
 "KXVOTEGENERAL-KXHOUSERACE-ID01-26RFUL": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 468
+"fetched": "2026-11-18",
+"final": true,
+"rows": 486
 },
 "KXVOTEGENERAL-KXHOUSERACE-ID02-26EGIL": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 447
+"fetched": "2026-11-18",
+"final": true,
+"rows": 466
 },
 "KXVOTEGENERAL-KXHOUSERACE-ID02-26MSIM": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 461
+"fetched": "2026-11-18",
+"final": true,
+"rows": 478
 },
 "KXVOTEGENERAL-KXHOUSERACE-IL01-26CMAX": {
 "fetched": "2026-11-15",
@@ -58295,14 +58375,14 @@
 "rows": 457
 },
 "KXVOTEGENERAL-KXHOUSERACE-NDAL-26JFED": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 473
+"fetched": "2026-11-18",
+"final": true,
+"rows": 487
 },
 "KXVOTEGENERAL-KXHOUSERACE-NDAL-26THAM": {
-"fetched": "2026-11-15",
-"final": false,
-"rows": 456
+"fetched": "2026-11-18",
+"final": true,
+"rows": 474
 },
 "KXVOTEGENERAL-KXHOUSERACE-NE01-26CBAC": {
 "fetched": "2026-11-14",
@@ -60115,24 +60195,24 @@
 "rows": 431
 },
 "KXVOTEGENERAL-SENATEID-26JRIS": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 586
+"fetched": "2026-11-18",
+"final": true,
+"rows": 613
 },
 "KXVOTEGENERAL-SENATEID-26MLOE": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 412
+"fetched": "2026-11-18",
+"final": true,
+"rows": 427
 },
 "KXVOTEGENERAL-SENATEID-26NFLE": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 380
+"fetched": "2026-11-18",
+"final": true,
+"rows": 392
 },
 "KXVOTEGENERAL-SENATEID-26TACH": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 489
+"fetched": "2026-11-18",
+"final": true,
+"rows": 503
 },
 "KXVOTEGENERAL-SENATEIL-26DTRA": {
 "fetched": "2026-11-14",
@@ -60403,6 +60483,16 @@
 "fetched": "2026-11-11",
 "final": true,
 "rows": 384
+},
+"KXVOTEJEFFRIES-27FEB01": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 11
+},
+"KXVOTEMEX-27JUN06MOR": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 11
 },
 "KXVOTEMV-26SEP20AFD": {
 "fetched": "2026-10-27",
@@ -61584,6 +61674,11 @@
 "final": true,
 "rows": 50
 },
+"KXZACATECASGOV-27JUN06": {
+"fetched": "2026-11-18",
+"final": false,
+"rows": 3
+},
 "KXZAMBIAASSEMBLY-26": {
 "fetched": "2026-10-27",
 "final": true,
@@ -62100,9 +62195,9 @@
 "rows": 63
 },
 "SENATEAK-26": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 1234
+"fetched": "2026-11-18",
+"final": true,
+"rows": 1240
 },
 "SENATEAK-28": {
 "fetched": "2026-11-14",
