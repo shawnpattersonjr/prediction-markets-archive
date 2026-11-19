@@ -1025,9 +1025,9 @@
 "rows": 2447
 },
 "1069542": {
-"fetched": "2026-11-15",
-"final": false,
-"rows": 211
+"fetched": "2026-11-19",
+"final": true,
+"rows": 220
 },
 "106955": {
 "fetched": "2026-10-30",
@@ -3075,9 +3075,9 @@
 "rows": 3
 },
 "1304463": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 10
+"rows": 17
 },
 "1304469": {
 "fetched": "2026-11-13",
@@ -3135,64 +3135,64 @@
 "rows": 3
 },
 "1304498": {
-"fetched": "2026-11-11",
-"final": false,
-"rows": 7
-},
-"1305056": {
-"fetched": "2026-11-11",
-"final": false,
-"rows": 8
-},
-"1305074": {
-"fetched": "2026-11-11",
-"final": false,
-"rows": 8
-},
-"1305076": {
-"fetched": "2026-11-11",
-"final": false,
-"rows": 31
-},
-"1305327": {
-"fetched": "2026-11-11",
-"final": false,
-"rows": 30
-},
-"1305343": {
-"fetched": "2026-11-11",
-"final": false,
-"rows": 32
-},
-"1305361": {
-"fetched": "2026-11-11",
-"final": false,
-"rows": 29
-},
-"1305362": {
-"fetched": "2026-11-11",
-"final": false,
-"rows": 32
-},
-"1305363": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
 "rows": 14
 },
-"1305364": {
-"fetched": "2026-11-11",
+"1305056": {
+"fetched": "2026-11-19",
 "final": false,
-"rows": 24
+"rows": 16
+},
+"1305074": {
+"fetched": "2026-11-19",
+"final": false,
+"rows": 15
+},
+"1305076": {
+"fetched": "2026-11-19",
+"final": false,
+"rows": 59
+},
+"1305327": {
+"fetched": "2026-11-19",
+"final": false,
+"rows": 58
+},
+"1305343": {
+"fetched": "2026-11-19",
+"final": false,
+"rows": 60
+},
+"1305361": {
+"fetched": "2026-11-19",
+"final": false,
+"rows": 57
+},
+"1305362": {
+"fetched": "2026-11-19",
+"final": false,
+"rows": 60
+},
+"1305363": {
+"fetched": "2026-11-19",
+"final": false,
+"rows": 28
+},
+"1305364": {
+"fetched": "2026-11-19",
+"final": false,
+"rows": 45
 },
 "1305426": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 62
+"rows": 119
 },
 "1305449": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 68
+"rows": 132
 },
 "1305459": {
 "fetched": "2026-11-06",
@@ -3200,49 +3200,49 @@
 "rows": 1
 },
 "1305501": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 86
+"rows": 164
 },
 "1309368": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 30
+"rows": 58
 },
 "1309394": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 71
+"rows": 134
 },
 "1309395": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 63
+"rows": 120
 },
 "1309406": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 32
+"rows": 60
 },
 "1309464": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 48
+"rows": 90
 },
 "1309465": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 40
+"rows": 76
 },
 "1309479": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 87
+"rows": 166
 },
 "1309480": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 70
+"rows": 134
 },
 "1310059": {
 "fetched": "2026-11-15",
@@ -3550,14 +3550,14 @@
 "rows": 42
 },
 "1360165": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 2
+"rows": 14
 },
 "1360224": {
-"fetched": "2026-11-11",
+"fetched": "2026-11-19",
 "final": false,
-"rows": 2
+"rows": 14
 },
 "1367015": {
 "fetched": "2026-11-12",
@@ -3939,6 +3939,21 @@
 "final": false,
 "rows": 5
 },
+"1421386": {
+"fetched": "2026-11-19",
+"final": false,
+"rows": 10
+},
+"1421387": {
+"fetched": "2026-11-19",
+"final": false,
+"rows": 10
+},
+"1427103": {
+"fetched": "2026-11-19",
+"final": false,
+"rows": 6
+},
 "145096": {
 "fetched": "2026-11-09",
 "final": true,
@@ -4245,9 +4260,9 @@
 "rows": 405
 },
 "190688": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 626
+"fetched": "2026-11-19",
+"final": true,
+"rows": 642
 },
 "190871": {
 "fetched": "2026-11-06",
@@ -11295,9 +11310,9 @@
 "rows": 961
 },
 "797244": {
-"fetched": "2026-11-15",
-"final": false,
-"rows": 859
+"fetched": "2026-11-19",
+"final": true,
+"rows": 887
 },
 "797254": {
 "fetched": "2026-11-14",
@@ -14975,9 +14990,9 @@
 "rows": 664
 },
 "870877": {
-"fetched": "2026-11-15",
-"final": false,
-"rows": 664
+"fetched": "2026-11-19",
+"final": true,
+"rows": 688
 },
 "870878": {
 "fetched": "2026-11-15",
@@ -15125,9 +15140,9 @@
 "rows": 47
 },
 "870999": {
-"fetched": "2026-11-15",
-"final": false,
-"rows": 1283
+"fetched": "2026-11-19",
+"final": true,
+"rows": 1332
 },
 "871000": {
 "fetched": "2026-11-14",
