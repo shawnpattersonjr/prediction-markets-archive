@@ -1005,9 +1005,9 @@
 "rows": 146
 },
 "1069306": {
-"fetched": "2026-11-14",
-"final": false,
-"rows": 271
+"fetched": "2026-11-21",
+"final": true,
+"rows": 301
 },
 "1069368": {
 "fetched": "2026-11-15",
@@ -3745,9 +3745,9 @@
 "rows": 14
 },
 "1374370": {
-"fetched": "2026-11-13",
+"fetched": "2026-11-21",
 "final": false,
-"rows": 8
+"rows": 66
 },
 "1375283": {
 "fetched": "2026-11-20",
@@ -3755,24 +3755,24 @@
 "rows": 7
 },
 "1375284": {
-"fetched": "2026-11-13",
-"final": false,
-"rows": 6
+"fetched": "2026-11-21",
+"final": true,
+"rows": 45
 },
 "1375827": {
-"fetched": "2026-11-13",
+"fetched": "2026-11-21",
 "final": false,
-"rows": 9
+"rows": 64
 },
 "1381756": {
-"fetched": "2026-11-13",
+"fetched": "2026-11-21",
 "final": false,
-"rows": 1
+"rows": 7
 },
 "1381836": {
-"fetched": "2026-11-13",
+"fetched": "2026-11-21",
 "final": false,
-"rows": 2
+"rows": 14
 },
 "139268": {
 "fetched": "2026-10-28",
@@ -5345,9 +5345,9 @@
 "rows": 496
 },
 "191538": {
-"fetched": "2026-11-15",
-"final": false,
-"rows": 525
+"fetched": "2026-11-21",
+"final": true,
+"rows": 533
 },
 "191539": {
 "fetched": "2026-11-06",
