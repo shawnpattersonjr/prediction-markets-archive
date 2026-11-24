@@ -35,7 +35,7 @@ Details columns add titles, the series/event they belong to, the resolution rule
 - `history/polymarket/<event_id>.csv.gz`: `event_id, market_id, outcome, date, price`. This is the CLOB daily
   price of the market's first outcome ("Yes" on binary markets), joined to the snapshot by `market_id`.
 
-Workflow: `.github/workflows/daily-history.yml` (14:37 UTC daily). Each run has a 150-minute budget (set
+Workflow: `.github/workflows/daily-history.yml` (08:37 UTC daily). Each run has a 150-minute budget (set
 another from the Actions tab) and records progress in `history/<source>/manifest.json`, so the first full
 backfill spreads over several days, biggest races first. Each race is fetched when first seen, refetched
 weekly while it is open (so its file stays current), and once more after it resolves, then never again.
@@ -63,7 +63,7 @@ Disable the workflow once every 2026 race has closed.
 To change coverage, edit `CATEGORIES` and `is_election()` in `elections/kalshi.py` or `TAG_SLUGS` in
 `elections/polymarket.py`.
 
-- Workflow: `.github/workflows/daily-snapshot.yml` (13:07 UTC daily; it can also be run manually from the Actions tab).
+- Workflow: `.github/workflows/daily-snapshot.yml` (08:07 UTC daily, 3am ET in winter; it can also be run manually from the Actions tab).
 - A failed source doesn't block the other. It is retried once an hour later, and if it still fails the run is
   marked failed, which makes GitHub email a notice.
 - Run locally: `pip install -r requirements.txt && python run_snapshot.py`.

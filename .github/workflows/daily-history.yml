@@ -2,7 +2,7 @@ name: Daily price history backfill
 
 on:
   schedule:
-    - cron: "37 14 * * *"   # 14:37 UTC daily, after the snapshot job
+    - cron: "37 8 * * *"    # 08:37 UTC daily, after the snapshot job (they share a lock, so they never overlap)
   workflow_dispatch:
     inputs:
       minutes:

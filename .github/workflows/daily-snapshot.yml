@@ -2,7 +2,8 @@ name: Daily election markets
 
 on:
   schedule:
-    - cron: "7 13 * * *"   # 13:07 UTC daily; GitHub may start it late
+    - cron: "7 8 * * *"    # 08:07 UTC (3:07 ET in winter). GitHub often starts it 5-12 hours late; an
+                           # early slot keeps a late run inside the same UTC day, so no date is skipped
   workflow_dispatch:        # allows a manual run from the Actions tab
 
 permissions:
