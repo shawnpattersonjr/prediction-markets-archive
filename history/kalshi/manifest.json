@@ -1320,9 +1320,9 @@
 "rows": 262
 },
 "KXAOCFIRSTRUN-28": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 5
+"rows": 41
 },
 "KXAOCMAMDANICOMBO-28MAR": {
 "fetched": "2026-11-20",
@@ -2270,9 +2270,9 @@
 "rows": 2257
 },
 "KXBRCHAMBERPRES-27FEB01": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 36
+"rows": 64
 },
 "KXBRDEFMIN-26OCT25": {
 "fetched": "2026-11-18",
@@ -2405,9 +2405,9 @@
 "rows": 138
 },
 "KXBRSENATEPRES-27FEB01": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 27
+"rows": 50
 },
 "KXBRSENMOSTSEATS-26OCT04": {
 "fetched": "2026-10-27",
@@ -3450,9 +3450,9 @@
 "rows": 174
 },
 "KXCHRISTIERUN-28": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 90
+"rows": 149
 },
 "KXCLACTON2ND-CLACTONBYELECTION26SEP01-2": {
 "fetched": "2026-10-27",
@@ -3620,14 +3620,14 @@
 "rows": 522
 },
 "KXCOLOMSCHUMER-27JAN03": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 10
+"rows": 18
 },
 "KXCOLORADOSPRINGSMAYOR-27": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 35
+"rows": 60
 },
 "KXCOMPTROLLER-25": {
 "fetched": "2026-10-27",
@@ -3645,14 +3645,14 @@
 "rows": 14
 },
 "KXCONTROLH-2030": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 20
+"rows": 35
 },
 "KXCONTROLS-2030": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 20
+"rows": 35
 },
 "KXCOOKPARLI-26AUG12": {
 "fetched": "2026-10-27",
@@ -4090,9 +4090,9 @@
 "rows": 95
 },
 "KXDENVERMAYOR-27": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 24
+"rows": 45
 },
 "KXDEPUTIESCHILE-25": {
 "fetched": "2026-10-27",
@@ -5015,9 +5015,9 @@
 "rows": 8
 },
 "KXFIRSTENDORSENOMD-28": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 8
+"rows": 72
 },
 "KXFIRSTPRIMARYD-28": {
 "fetched": "2026-10-27",
@@ -5420,9 +5420,9 @@
 "rows": 2768
 },
 "KXFRPRESCANDCOUNT-27APR17": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 44
+"rows": 79
 },
 "KXFRPSNOM-26OCT01": {
 "fetched": "2026-10-27",
@@ -6360,9 +6360,9 @@
 "rows": 3179
 },
 "KXGOVNOM-DED-28": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 56
+"rows": 105
 },
 "KXGOVNOM-DER-28": {
 "fetched": "2026-11-18",
@@ -6375,9 +6375,9 @@
 "rows": 63
 },
 "KXGOVNOM-INR-28": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 72
+"rows": 123
 },
 "KXGOVNOM-MOD-28": {
 "fetched": "2026-11-18",
@@ -6385,29 +6385,29 @@
 "rows": 45
 },
 "KXGOVNOM-MOR-28": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 64
+"rows": 110
 },
 "KXGOVNOM-MSD-27": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 48
+"rows": 93
 },
 "KXGOVNOM-MSR-27": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 72
+"rows": 138
 },
 "KXGOVNOM-MTD-28": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 64
+"rows": 134
 },
 "KXGOVNOM-MTR-28": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 48
+"rows": 90
 },
 "KXGOVNOM-NCD-28": {
 "fetched": "2026-11-18",
@@ -10985,9 +10985,9 @@
 "rows": 1617
 },
 "KXHOUSETURNOUTD-26NOV03": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 12
+"rows": 108
 },
 "KXHOUSETX32-26": {
 "fetched": "2026-11-05",
@@ -11420,9 +11420,9 @@
 "rows": 296
 },
 "KXINDIANAPOLISMAYORNOMD-27": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 38
+"rows": 78
 },
 "KXINDIANPM-29APR30": {
 "fetched": "2026-11-24",
@@ -11685,9 +11685,9 @@
 "rows": 54
 },
 "KXISRHEALTHMIN-26OCT27": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 120
+"rows": 204
 },
 "KXISRINTMIN-26OCT27": {
 "fetched": "2026-11-24",
@@ -11740,9 +11740,9 @@
 "rows": 1740
 },
 "KXJACKSONVILLEMAYOR-27": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 16
+"rows": 32
 },
 "KXJAMAICANHOR-26": {
 "fetched": "2026-10-27",
@@ -20160,9 +20160,9 @@
 "rows": 32
 },
 "KXMSSENRECOUNT-27": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 9
+"rows": 15
 },
 "KXMSSTATELEG-27HOUSE": {
 "fetched": "2026-11-21",
@@ -20245,9 +20245,9 @@
 "rows": 174
 },
 "KXNASHVILLEMAYOR-27": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 24
+"rows": 45
 },
 "KXNAURURENAME-27JAN01": {
 "fetched": "2026-10-27",
@@ -21800,9 +21800,9 @@
 "rows": 85
 },
 "KXPHILADELPHIAMAYORNOMD-27": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 31
+"rows": 57
 },
 "KXPHILIPPINESHOUSE-28": {
 "fetched": "2026-11-24",
@@ -22150,19 +22150,19 @@
 "rows": 632
 },
 "KXPRESRUNBOTH2-28": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 71
+"rows": 124
 },
 "KXPRESRUNFIRSTD-28": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 69
+"rows": 117
 },
 "KXPRESRUNFIRSTR-28": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 61
+"rows": 112
 },
 "KXPRESSTATE-AK-28": {
 "fetched": "2026-11-21",
@@ -23165,9 +23165,9 @@
 "rows": 2071
 },
 "KXREDISTRICTLAW-28": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 153
+"rows": 266
 },
 "KXREDWAVECOMBO-27FEBB": {
 "fetched": "2026-11-24",
@@ -24810,9 +24810,9 @@
 "rows": 100
 },
 "KXSERBIAPRESPERSON-26DEC27": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 134
+"rows": 248
 },
 "KXSERBIASNSMOV-26OCT25": {
 "fetched": "2026-10-28",
@@ -25095,9 +25095,9 @@
 "rows": 140
 },
 "KXSPAINABROAD-26NOV29-1": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 4
+"rows": 35
 },
 "KXSPAINANYSEAT-26NOV29": {
 "fetched": "2026-11-24",
@@ -25110,9 +25110,9 @@
 "rows": 4
 },
 "KXSPAINFACOUNT-26NOV29": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 8
+"rows": 79
 },
 "KXSPAINGOVT-28JAN01": {
 "fetched": "2026-11-24",
@@ -25130,9 +25130,9 @@
 "rows": 1548
 },
 "KXSPAINPODEMOSCOUNT-26NOV29": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 3
+"rows": 27
 },
 "KXSPAINPPCOUNT-26NOV29": {
 "fetched": "2026-11-18",
@@ -25140,9 +25140,9 @@
 "rows": 119
 },
 "KXSPAINPSOECOUNT-26NOV29": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 9
+"rows": 80
 },
 "KXSPAINTURNOUT-26NOV29": {
 "fetched": "2026-11-24",
@@ -53560,9 +53560,9 @@
 "rows": 574
 },
 "KXTAMPAMAYOR-27": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 56
+"rows": 112
 },
 "KXTARRANTCOUNTYJUDGE-26": {
 "fetched": "2026-11-05",
@@ -54710,9 +54710,9 @@
 "rows": 2061
 },
 "KXVANHOLLENRUN-28": {
-"fetched": "2026-11-17",
+"fetched": "2026-11-25",
 "final": false,
-"rows": 89
+"rows": 152
 },
 "KXVANHOLLENVOTES-27JAN03": {
 "fetched": "2026-11-21",
