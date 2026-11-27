@@ -1895,9 +1895,9 @@
 "rows": 1316
 },
 "KXBALANCEPOWERCOMBO-29FEB": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 4
+"rows": 29
 },
 "KXBALEARIC-27MAY23": {
 "fetched": "2026-11-24",
@@ -2130,14 +2130,14 @@
 "rows": 740
 },
 "KXBLUETRICKLECOMBO-27FEB": {
-"fetched": "2026-11-24",
-"final": false,
-"rows": 60
+"fetched": "2026-11-27",
+"final": true,
+"rows": 63
 },
 "KXBLUETSUNAMICOMBO-27FEB": {
-"fetched": "2026-11-24",
-"final": false,
-"rows": 343
+"fetched": "2026-11-27",
+"final": true,
+"rows": 346
 },
 "KXBLUEWAVE08COMBO-27FEB": {
 "fetched": "2026-11-26",
@@ -2145,9 +2145,9 @@
 "rows": 23
 },
 "KXBLUEWAVECOMBO-27FEB": {
-"fetched": "2026-11-24",
-"final": false,
-"rows": 347
+"fetched": "2026-11-27",
+"final": true,
+"rows": 350
 },
 "KXBOLIVIADEPUTIES-25": {
 "fetched": "2026-10-27",
@@ -3440,14 +3440,14 @@
 "rows": 56
 },
 "KXCHIMAYORADVANCE-27MAR17": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 11
+"rows": 89
 },
 "KXCHINACOMMITTEE-27": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 10
+"rows": 16
 },
 "KXCHRISTAYLORCOUNTIES-26": {
 "fetched": "2026-10-27",
@@ -4135,9 +4135,9 @@
 "rows": 354
 },
 "KXDHOUSESEATS-27": {
-"fetched": "2026-11-24",
-"final": false,
-"rows": 3814
+"fetched": "2026-11-27",
+"final": true,
+"rows": 3849
 },
 "KXDHOUSESEATSDIR-27": {
 "fetched": "2026-11-24",
@@ -4208,6 +4208,11 @@
 "fetched": "2026-11-24",
 "final": false,
 "rows": 1277
+},
+"KXDPRESDELEGATE-28SC": {
+"fetched": "2026-11-27",
+"final": false,
+"rows": 32
 },
 "KXDPRESFRACTURED-28AUG31": {
 "fetched": "2026-11-24",
@@ -4500,9 +4505,9 @@
 "rows": 404
 },
 "KXDSENATESEATS-27": {
-"fetched": "2026-11-24",
-"final": false,
-"rows": 3336
+"fetched": "2026-11-27",
+"final": true,
+"rows": 3366
 },
 "KXDSENATESEATS-29": {
 "fetched": "2026-11-24",
@@ -4875,9 +4880,9 @@
 "rows": 184
 },
 "KXESTONIAPM-27MAR07": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 8
+"rows": 63
 },
 "KXESTPRES-27JAN01": {
 "fetched": "2026-10-27",
@@ -5030,9 +5035,9 @@
 "rows": 1700
 },
 "KXFINLANDPM-27APR18": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 8
+"rows": 63
 },
 "KXFIRSTENDORSENOMD-28": {
 "fetched": "2026-11-25",
@@ -5700,9 +5705,9 @@
 "rows": 426
 },
 "KXGDPPARTYCOMBO-30MAR": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 120
+"rows": 201
 },
 "KXGENERALCOUNTY-GOVPARTYAZ-26": {
 "fetched": "2026-11-24",
@@ -6825,9 +6830,9 @@
 "rows": 141
 },
 "KXHFCCHAIR-26DEC01": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 50
+"rows": 85
 },
 "KXHI01D-26": {
 "fetched": "2026-10-27",
@@ -6960,9 +6965,9 @@
 "rows": 105
 },
 "KXHOUSEAICOMMITTEE-27": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 9
+"rows": 17
 },
 "KXHOUSEDEMLEADRUN-26": {
 "fetched": "2026-11-24",
@@ -11680,9 +11685,9 @@
 "rows": 274
 },
 "KXISRALTPM-27OCT27": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 1
+"rows": 9
 },
 "KXISRCOALSEATS-26NOV06": {
 "fetched": "2026-11-24",
@@ -12055,9 +12060,9 @@
 "rows": 51
 },
 "KXKOREATERMREF-28JAN01": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 1
+"rows": 8
 },
 "KXKOSOVOPARLI-26JUN07": {
 "fetched": "2026-10-27",
@@ -12899,6 +12904,11 @@
 "final": false,
 "rows": 118
 },
+"KXLAGOVADVANCE-27OCT09": {
+"fetched": "2026-11-27",
+"final": false,
+"rows": 18
+},
 "KXLAGOVRUN-27": {
 "fetched": "2026-11-24",
 "final": false,
@@ -12918,6 +12928,11 @@
 "fetched": "2026-11-24",
 "final": false,
 "rows": 66
+},
+"KXLALTGOVADVANCE-27OCT09": {
+"fetched": "2026-11-27",
+"final": false,
+"rows": 4
 },
 "KXLAMAYOR1R-26": {
 "fetched": "2026-10-27",
@@ -13150,9 +13165,9 @@
 "rows": 254
 },
 "KXLIMAMAYOR-26OCT04": {
-"fetched": "2026-11-24",
-"final": false,
-"rows": 885
+"fetched": "2026-11-27",
+"final": true,
+"rows": 904
 },
 "KXLINKEPERCENT-25": {
 "fetched": "2026-10-27",
@@ -13865,9 +13880,9 @@
 "rows": 437
 },
 "KXMEGATSUNAMICOMBO-27FEB": {
-"fetched": "2026-11-24",
-"final": false,
-"rows": 64
+"fetched": "2026-11-27",
+"final": true,
+"rows": 67
 },
 "KXMELONIOUT-26OCT": {
 "fetched": "2026-11-24",
@@ -21745,9 +21760,9 @@
 "rows": 179
 },
 "KXPAYROLLSPARTYCOMBO-30SEP": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 20
+"rows": 90
 },
 "KXPCTVOTECUOR1-25": {
 "fetched": "2026-10-27",
@@ -22060,14 +22075,14 @@
 "rows": 21
 },
 "KXPRESDEBATEFIRSTD-28": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 72
+"rows": 125
 },
 "KXPRESDEBATEFIRSTR-28": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 72
+"rows": 122
 },
 "KXPRESDEBATETWONIGHTD-28": {
 "fetched": "2026-11-26",
@@ -22493,6 +22508,31 @@
 "fetched": "2026-10-27",
 "final": true,
 "rows": 46
+},
+"KXPRESWINNERGEN-28": {
+"fetched": "2026-11-27",
+"final": false,
+"rows": 6
+},
+"KXPRESWINNERLGBTQ-28": {
+"fetched": "2026-11-27",
+"final": false,
+"rows": 2
+},
+"KXPRESWINNERRACE-28": {
+"fetched": "2026-11-27",
+"final": false,
+"rows": 8
+},
+"KXPRESWINNERREGION-28": {
+"fetched": "2026-11-27",
+"final": false,
+"rows": 8
+},
+"KXPRESWINNERWOMAN-28": {
+"fetched": "2026-11-27",
+"final": false,
+"rows": 2
 },
 "KXPRIMARYCOUNTY-CAGOVPRIMARY1ST26JUN021ST": {
 "fetched": "2026-10-27",
@@ -23230,9 +23270,9 @@
 "rows": 266
 },
 "KXREDWAVECOMBO-27FEBB": {
-"fetched": "2026-11-24",
-"final": false,
-"rows": 112
+"fetched": "2026-11-27",
+"final": true,
+"rows": 115
 },
 "KXREGINAWASCANA-25": {
 "fetched": "2026-10-28",
@@ -23280,9 +23320,9 @@
 "rows": 96
 },
 "KXRHOUSESEATS-27": {
-"fetched": "2026-11-24",
-"final": false,
-"rows": 4762
+"fetched": "2026-11-27",
+"final": true,
+"rows": 4789
 },
 "KXRHOUSEWON-26NOV03": {
 "fetched": "2026-11-24",
@@ -23378,6 +23418,11 @@
 "fetched": "2026-11-24",
 "final": false,
 "rows": 129
+},
+"KXRPRESDELEGATE-28IA": {
+"fetched": "2026-11-27",
+"final": false,
+"rows": 26
 },
 "KXRPRESFRACTURED-28AUG31": {
 "fetched": "2026-11-24",
@@ -23685,9 +23730,9 @@
 "rows": 300
 },
 "KXSADIQKHANRUN-28APR05": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 1
+"rows": 9
 },
 "KXSALOCAL-26NOV04": {
 "fetched": "2026-11-09",
@@ -24830,14 +24875,14 @@
 "rows": 12
 },
 "KXSENDEMNO3-26DEC01": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 72
+"rows": 134
 },
 "KXSENDEMWHIP-26DEC01": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 42
+"rows": 51
 },
 "KXSENGOPLEADRUN-26": {
 "fetched": "2026-11-11",
@@ -24860,9 +24905,9 @@
 "rows": 924
 },
 "KXSERBIAELECTIONCALL-26NOV01": {
-"fetched": "2026-11-24",
-"final": false,
-"rows": 98
+"fetched": "2026-11-27",
+"final": true,
+"rows": 101
 },
 "KXSERBIAPARLI-26JUN30": {
 "fetched": "2026-10-27",
@@ -24955,9 +25000,9 @@
 "rows": 225
 },
 "KXSIMIVALLEYMAYOR-26": {
-"fetched": "2026-11-24",
-"final": false,
-"rows": 141
+"fetched": "2026-11-27",
+"final": true,
+"rows": 156
 },
 "KXSINGHSEAT-25": {
 "fetched": "2026-10-27",
@@ -25175,9 +25220,9 @@
 "rows": 130
 },
 "KXSPAINCOMBO-28AUG": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 4
+"rows": 36
 },
 "KXSPAINFACOUNT-26NOV29": {
 "fetched": "2026-11-25",
@@ -54200,9 +54245,9 @@
 "rows": 1268
 },
 "KXTXPOWERFREEZE-27": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 10
+"rows": 17
 },
 "KXTXPRIMARY-01D26": {
 "fetched": "2026-10-27",
@@ -54580,9 +54625,9 @@
 "rows": 111
 },
 "KXU3PARTYCOMBO-30SEP": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 16
+"rows": 72
 },
 "KXUKBYELECTION-27": {
 "fetched": "2026-10-27",
@@ -55405,9 +55450,9 @@
 "rows": 1682
 },
 "KXVOTEFR1-FRPRES27DLIS": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 10
+"rows": 88
 },
 "KXVOTEFR1-FRPRES27JMEL": {
 "fetched": "2026-11-26",
@@ -55420,9 +55465,9 @@
 "rows": 153
 },
 "KXVOTEFR1-FRPRES27TRIN": {
-"fetched": "2026-11-19",
+"fetched": "2026-11-27",
 "final": false,
-"rows": 7
+"rows": 56
 },
 "KXVOTEGENERAL-CAWEALTHTAX26YES": {
 "fetched": "2026-11-24",
